@@ -1,0 +1,2912 @@
+[
+  {
+    "id": 1,
+    "termino": "Zapatillas de running",
+    "definicion_corta": "Calzado diseñado específicamente para correr.",
+    "definicion_larga": "Las zapatillas de running cuentan con amortiguación, soporte y materiales adaptados a la biomecánica del corredor para mejorar el rendimiento y reducir el riesgo de lesiones.",
+    "ejemplo": "Antes de comenzar a entrenar, invirtió en unas zapatillas de running adecuadas para su tipo de pisada.",
+    "sinonimos": ["Calzado para correr"],
+    "imagen_url": "logo.png",
+    "categoria": "Equipamiento"
+  },
+  {
+    "id": 2,
+    "termino": "Calentamiento",
+    "definicion_corta": "Serie de ejercicios previos al esfuerzo.",
+    "definicion_larga": "El calentamiento prepara al cuerpo para correr aumentando la temperatura muscular, mejorando la movilidad articular y reduciendo el riesgo de lesiones.",
+    "ejemplo": "Siempre hace 10 minutos de calentamiento antes de correr.",
+    "sinonimos": ["Precalentamiento"],
+    "imagen_url": "logo.png",
+    "categoria": "Entrenamiento"
+  },
+  {
+    "id": 3,
+    "termino": "Estiramientos",
+    "definicion_corta": "Ejercicios para mejorar la flexibilidad.",
+    "definicion_larga": "Los estiramientos ayudan a relajar los músculos tras el entrenamiento y pueden contribuir a una mejor recuperación y movilidad.",
+    "ejemplo": "Después de correr, dedicó 5 minutos a estiramientos de piernas.",
+    "sinonimos": ["Stretching"],
+    "imagen_url": "logo.png",
+    "categoria": "Recuperación"
+  },
+  {
+    "id": 4,
+    "termino": "Kilómetro",
+    "definicion_corta": "Unidad de medida de distancia en running.",
+    "definicion_larga": "El kilómetro es la referencia estándar para medir recorridos, ritmos y competiciones en la mayoría de países.",
+    "ejemplo": "Su objetivo fue bajar de 5 minutos por kilómetro.",
+    "sinonimos": ["km"],
+    "imagen_url": "logo.png",
+    "categoria": "Medición"
+  },
+  {
+    "id": 5,
+    "termino": "Ritmo",
+    "definicion_corta": "Velocidad media por kilómetro.",
+    "definicion_larga": "El ritmo indica el tiempo que tarda un corredor en completar un kilómetro o una milla. Es fundamental para planificar entrenamientos y competiciones.",
+    "ejemplo": "Corrió los 10K a un ritmo de 4:30 min/km.",
+    "sinonimos": ["Pace"],
+    "imagen_url": "logo.png",
+    "categoria": "Medición"
+  },
+  {
+    "id": 6,
+    "termino": "Frecuencia cardíaca",
+    "definicion_corta": "Número de pulsaciones por minuto.",
+    "definicion_larga": "Se utiliza para controlar la intensidad del esfuerzo y ajustar las zonas de entrenamiento de acuerdo con los objetivos del corredor.",
+    "ejemplo": "Mantuvo la frecuencia cardíaca en zona aeróbica durante toda la carrera.",
+    "sinonimos": ["Pulsaciones"],
+    "imagen_url": "logo.png",
+    "categoria": "Fisiología"
+  },
+  {
+    "id": 7,
+    "termino": "Cadencia",
+    "definicion_corta": "Número de pasos por minuto al correr.",
+    "definicion_larga": "La cadencia óptima suele rondar los 170-180 pasos por minuto, aunque depende de la técnica y las características del corredor.",
+    "ejemplo": "Aumentó la cadencia para mejorar la eficiencia de su zancada.",
+    "sinonimos": ["Step rate"],
+    "imagen_url": "logo.png",
+    "categoria": "Técnica"
+  },
+  {
+    "id": 8,
+    "termino": "Zancada",
+    "definicion_corta": "Distancia cubierta por cada paso.",
+    "definicion_larga": "La zancada depende de la longitud de las piernas, la técnica y la velocidad. Una zancada eficiente combina amplitud y frecuencia.",
+    "ejemplo": "Su zancada larga le permitió ganar velocidad en el sprint final.",
+    "sinonimos": ["Stride"],
+    "imagen_url": "logo.png",
+    "categoria": "Técnica"
+  },
+  {
+    "id": 9,
+    "termino": "Pisada",
+    "definicion_corta": "Forma en la que el pie impacta con el suelo.",
+    "definicion_larga": "Existen diferentes tipos de pisada: pronadora, supinadora y neutra, cada una con implicaciones en la elección de calzado y prevención de lesiones.",
+    "ejemplo": "Su pisada pronadora le llevó a usar zapatillas con control de estabilidad.",
+    "sinonimos": ["Footstrike"],
+    "imagen_url": "logo.png",
+    "categoria": "Biomecánica"
+  },
+  {
+    "id": 10,
+    "termino": "Pronación",
+    "definicion_corta": "Rotación natural del pie hacia dentro al correr.",
+    "definicion_larga": "La pronación ayuda a amortiguar el impacto. Un exceso de pronación puede generar desequilibrios y lesiones.",
+    "ejemplo": "El podólogo le recomendó plantillas por su pronación excesiva.",
+    "sinonimos": ["Rotación interna"],
+    "imagen_url": "logo.png",
+    "categoria": "Biomecánica"
+  },
+  {
+    "id": 11,
+    "termino": "Supinación",
+    "definicion_corta": "Rotación del pie hacia afuera al correr.",
+    "definicion_larga": "La supinación ocurre cuando el impacto recae en el borde externo del pie, lo que puede aumentar el riesgo de lesiones si es excesiva.",
+    "ejemplo": "Su supinación ligera requiere zapatillas con buena amortiguación.",
+    "sinonimos": ["Rotación externa"],
+    "imagen_url": "logo.png",
+    "categoria": "Biomecánica"
+  },
+  {
+    "id": 12,
+    "termino": "Carrera continua",
+    "definicion_corta": "Entrenamiento a ritmo constante y moderado.",
+    "definicion_larga": "Es la base del entrenamiento aeróbico, realizada a una intensidad que permite mantener una conversación mientras se corre.",
+    "ejemplo": "Hizo 40 minutos de carrera continua para trabajar su resistencia.",
+    "sinonimos": ["Rodaje"],
+    "imagen_url": "logo.png",
+    "categoria": "Entrenamiento"
+  },
+  {
+    "id": 13,
+    "termino": "Series",
+    "definicion_corta": "Repeticiones de un tramo a alta intensidad.",
+    "definicion_larga": "Consiste en correr intervalos a un ritmo más rápido que el de competición, alternados con descansos activos o pasivos.",
+    "ejemplo": "Entrenó con 10 series de 400 metros a ritmo intenso.",
+    "sinonimos": ["Repeticiones"],
+    "imagen_url": "logo.png",
+    "categoria": "Entrenamiento"
+  },
+  {
+    "id": 14,
+    "termino": "Intervalos",
+    "definicion_corta": "Alternancia de esfuerzo intenso y recuperación.",
+    "definicion_larga": "El entrenamiento interválico mejora la capacidad cardiovascular y la tolerancia al lactato, combinando fases rápidas con descansos.",
+    "ejemplo": "Hizo intervalos de 2 minutos fuertes y 1 minuto suave.",
+    "sinonimos": ["Interval training"],
+    "imagen_url": "logo.png",
+    "categoria": "Entrenamiento"
+  },
+  {
+    "id": 15,
+    "termino": "Fartlek",
+    "definicion_corta": "Entrenamiento con cambios de ritmo.",
+    "definicion_larga": "El fartlek combina tramos rápidos y suaves de forma libre o planificada, siendo ideal para mejorar resistencia y velocidad.",
+    "ejemplo": "Corrió un fartlek de 40 minutos alternando ritmo suave y fuerte.",
+    "sinonimos": ["Juego de velocidad"],
+    "imagen_url": "logo.png",
+    "categoria": "Entrenamiento"
+  },
+  {
+    "id": 16,
+    "termino": "Cuestas",
+    "definicion_corta": "Entrenamiento en pendiente ascendente.",
+    "definicion_larga": "Correr en subida mejora la fuerza, la técnica de zancada y la capacidad anaeróbica.",
+    "ejemplo": "Hizo 8 repeticiones de 200 metros en cuestas.",
+    "sinonimos": ["Hill training"],
+    "imagen_url": "logo.png",
+    "categoria": "Entrenamiento"
+  },
+  {
+    "id": 17,
+    "termino": "Tirada larga",
+    "definicion_corta": "Sesión de larga duración a ritmo cómodo.",
+    "definicion_larga": "Fundamental en la preparación de medias maratones y maratones, permite mejorar la resistencia aeróbica y la economía de carrera.",
+    "ejemplo": "Su tirada larga fue de 25 km a ritmo suave.",
+    "sinonimos": ["Long run"],
+    "imagen_url": "logo.png",
+    "categoria": "Entrenamiento"
+  },
+  {
+    "id": 18,
+    "termino": "Recuperación activa",
+    "definicion_corta": "Actividad ligera tras un esfuerzo intenso.",
+    "definicion_larga": "Incluye trote suave, caminata o bicicleta a baja intensidad para favorecer la circulación y la eliminación de desechos metabólicos.",
+    "ejemplo": "El día después de la carrera hizo 30 minutos de recuperación activa.",
+    "sinonimos": ["Cool down"],
+    "imagen_url": "logo.png",
+    "categoria": "Recuperación"
+  },
+  {
+    "id": 19,
+    "termino": "Estiramiento dinámico",
+    "definicion_corta": "Movimientos controlados antes de correr.",
+    "definicion_larga": "Consiste en estiramientos en movimiento que activan músculos y articulaciones, ideales para el calentamiento.",
+    "ejemplo": "Incluyó skipping y zancadas como estiramiento dinámico.",
+    "sinonimos": ["Dynamic stretching"],
+    "imagen_url": "logo.png",
+    "categoria": "Entrenamiento"
+  },
+  {
+    "id": 20,
+    "termino": "Estiramiento estático",
+    "definicion_corta": "Mantener una posición para elongar músculos.",
+    "definicion_larga": "Se realiza tras el entrenamiento, manteniendo la postura durante 20–30 segundos para mejorar la flexibilidad y reducir la tensión muscular.",
+    "ejemplo": "Después de correr, hizo estiramiento estático de isquiotibiales.",
+    "sinonimos": ["Static stretching"],
+    "imagen_url": "logo.png",
+    "categoria": "Recuperación"
+  },
+  {
+    "id": 21,
+    "termino": "Maratón",
+    "definicion_corta": "Prueba de 42,195 km.",
+    "definicion_larga": "Es la distancia reina del atletismo de fondo. Requiere meses de preparación, alta resistencia física y mental.",
+    "ejemplo": "Se estrenó en maratón en la prueba de Valencia.",
+    "sinonimos": ["42K"],
+    "imagen_url": "logo.png",
+    "categoria": "Competición"
+  },
+  {
+    "id": 22,
+    "termino": "Media maratón",
+    "definicion_corta": "Prueba de 21,097 km.",
+    "definicion_larga": "Es una distancia muy popular en el running, que combina resistencia y velocidad, siendo un paso intermedio hacia el maratón.",
+    "ejemplo": "Corrió la media maratón en menos de 2 horas.",
+    "sinonimos": ["21K"],
+    "imagen_url": "logo.png",
+    "categoria": "Competición"
+  },
+  {
+    "id": 23,
+    "termino": "10K",
+    "definicion_corta": "Carrera de 10 kilómetros.",
+    "definicion_larga": "Prueba popular y asequible que combina resistencia con velocidad, ideal para corredores principiantes y avanzados.",
+    "ejemplo": "Hizo marca personal en un 10K urbano.",
+    "sinonimos": ["Diez mil metros"],
+    "imagen_url": "logo.png",
+    "categoria": "Competición"
+  },
+  {
+    "id": 24,
+    "termino": "5K",
+    "definicion_corta": "Carrera de 5 kilómetros.",
+    "definicion_larga": "Distancia corta y accesible que permite trabajar la velocidad y la resistencia básica.",
+    "ejemplo": "Participó en un 5K solidario en su ciudad.",
+    "sinonimos": ["Cinco mil metros"],
+    "imagen_url": "logo.png",
+    "categoria": "Competición"
+  },
+  {
+    "id": 25,
+    "termino": "Ultramaratón",
+    "definicion_corta": "Cualquier carrera superior a 42 km.",
+    "definicion_larga": "Incluye pruebas de 50 km, 100 km o incluso más, en asfalto o montaña, que exigen gran resistencia física y mental.",
+    "ejemplo": "Se preparó durante un año para un ultramaratón de 100 km.",
+    "sinonimos": ["Ultra"],
+    "imagen_url": "logo.png",
+    "categoria": "Competición"
+  },
+  {
+    "id": 26,
+    "termino": "Tempo",
+    "definicion_corta": "Entrenamiento sostenido a ritmo fuerte, cercano al umbral.",
+    "definicion_larga": "Sesión en la que se corre a un ritmo ligeramente inferior al umbral anaeróbico durante un periodo prolongado (por ejemplo 20–40 minutos), con el objetivo de mejorar la tolerancia al esfuerzo y la velocidad sostenida.",
+    "ejemplo": "Hizo 30 minutos de tempo a ritmo de 10K para mejorar su resistencia rápida.",
+    "sinonimos": ["Tempo run", "Ritmo umbral"],
+    "imagen_url": "logo.png",
+    "categoria": "Entrenamiento"
+  },
+  {
+    "id": 27,
+    "termino": "VO₂máx",
+    "definicion_corta": "Máxima capacidad de consumo de oxígeno.",
+    "definicion_larga": "Indicador fisiológico que expresa el volumen máximo de oxígeno que un atleta puede consumir por minuto y que condiciona la capacidad aeróbica y el rendimiento en pruebas de resistencia.",
+    "ejemplo": "Mejoró su VO₂máx con sesiones de intervalos intensos y trabajo de fuerza.",
+    "sinonimos": ["Consumo máximo de oxígeno"],
+    "imagen_url": "logo.png",
+    "categoria": "Fisiología"
+  },
+  {
+    "id": 28,
+    "termino": "Lactato",
+    "definicion_corta": "Metabolito producido en esfuerzos intensos.",
+    "definicion_larga": "El lactato es un subproducto del metabolismo anaeróbico; su acumulación en sangre indica que la intensidad supera la capacidad de eliminación y se utiliza para identificar umbrales y ajustar intensidades de entrenamiento.",
+    "ejemplo": "Realizó un test de lactato para localizar su umbral y planificar las series.",
+    "sinonimos": ["Ácido láctico"],
+    "imagen_url": "logo.png",
+    "categoria": "Fisiología"
+  },
+  {
+    "id": 29,
+    "termino": "Entrenamiento cruzado",
+    "definicion_corta": "Actividades complementarias a la carrera.",
+    "definicion_larga": "Incluye ciclismo, natación, elíptica u otros deportes que permiten trabajar la capacidad aeróbica y la fuerza sin el impacto repetitivo de la carrera; útil para prevención de lesiones y variación del estímulo.",
+    "ejemplo": "Los días de descanso hizo 45 minutos de ciclismo como entrenamiento cruzado.",
+    "sinonimos": ["Cross-training"],
+    "imagen_url": "logo.png",
+    "categoria": "Entrenamiento"
+  },
+  {
+    "id": 30,
+    "termino": "Entrenamiento de fuerza",
+    "definicion_corta": "Trabajo para aumentar la fuerza muscular.",
+    "definicion_larga": "Sesiones con pesas, ejercicios con el propio peso o máquinas orientadas a mejorar la fuerza general y específica de piernas, core y estabilizadores, lo que contribuye a una mejor economía de carrera y prevención de lesiones.",
+    "ejemplo": "Incluye dos sesiones semanales de fuerza enfocadas en sentadillas y ejercicios unilaterales.",
+    "sinonimos": ["Fuerza específica"],
+    "imagen_url": "logo.png",
+    "categoria": "Entrenamiento"
+  },
+  {
+    "id": 31,
+    "termino": "Pliometría",
+    "definicion_corta": "Ejercicios de salto para mejorar potencia.",
+    "definicion_larga": "Entrenamientos que utilizan el ciclo estiramiento-acortamiento (saltos, rebotes, bounds) para aumentar la potencia explosiva y la capacidad de propulsión en la zancada.",
+    "ejemplo": "Hizo una sesión corta de pliometría antes del trabajo de velocidad.",
+    "sinonimos": ["Ejercicios pliométricos", "Saltos pliométricos"],
+    "imagen_url": "logo.png",
+    "categoria": "Entrenamiento"
+  },
+  {
+    "id": 32,
+    "termino": "Análisis de la pisada",
+    "definicion_corta": "Evaluación técnica del contacto del pie.",
+    "definicion_larga": "Prueba (analítica o dinámica) para observar cómo apoya y rueda el pie durante la marcha y la carrera; sirve para elegir calzado, plantillas o corregir patrones que predisponen a lesiones.",
+    "ejemplo": "Realizó un análisis de la pisada en cinta para ajustar sus zapatillas.",
+    "sinonimos": ["Estudio de la pisada", "Gait analysis"],
+    "imagen_url": "logo.png",
+    "categoria": "Biomecánica"
+  },
+  {
+    "id": 33,
+    "termino": "Terreno de carrera",
+    "definicion_corta": "Superficie donde se corre (asfalto, pista, trail...).",
+    "definicion_larga": "La superficie influye en la técnica, el impacto y la respuesta del cuerpo: asfalto es estable y rápido, pista es homogénea, trail implica irregularidad y mayor demanda muscular y técnica.",
+    "ejemplo": "Entrena en diferentes terrenos: asfalto para ritmos y barro para técnica de trail.",
+    "sinonimos": ["Superficie", "Terreno"],
+    "imagen_url": "logo.png",
+    "categoria": "Condiciones"
+  },
+  {
+    "id": 34,
+    "termino": "Trail running",
+    "definicion_corta": "Carrera por senderos y montaña.",
+    "definicion_larga": "Modalidad de running que se desarrolla fuera de la carretera, en senderos, montaña o terreno irregular; exige técnica, fuerza, adaptación al desnivel y a condiciones variables.",
+    "ejemplo": "Se apuntó a un trail de 25 km con 1.200 m de desnivel positivo.",
+    "sinonimos": ["Carrera por montaña"],
+    "imagen_url": "logo.png",
+    "categoria": "Disciplina"
+  },
+  {
+    "id": 35,
+    "termino": "Pista de atletismo",
+    "definicion_corta": "Instalación ovalada con carriles para entrenar y competir.",
+    "definicion_larga": "Superficie homologada (normalmente tartán) con 400 m por vuelta, ideal para series, test y entrenamientos controlados de velocidad y técnica.",
+    "ejemplo": "Hizo 6 series de 800 m en la pista de atletismo municipal.",
+    "sinonimos": ["Tartan", "Pista"],
+    "imagen_url": "logo.png",
+    "categoria": "Instalaciones"
+  },
+  {
+    "id": 36,
+    "termino": "Zonas de entrenamiento",
+    "definicion_corta": "Intervalos de intensidad basados en FC o ritmo.",
+    "definicion_larga": "División de la intensidad del ejercicio en zonas (por ejemplo Z1 a Z5) según frecuencia cardíaca, ritmo o potencia, que permite estructurar sesiones orientadas a resistencia, umbral o VO₂máx.",
+    "ejemplo": "Trabajó 40 minutos en zona 2 para mejorar la base aeróbica.",
+    "sinonimos": ["Zonas de FC", "Zonas de intensidad"],
+    "imagen_url": "logo.png",
+    "categoria": "Entrenamiento"
+  },
+  {
+    "id": 37,
+    "termino": "Pacing",
+    "definicion_corta": "Estrategia de distribución del esfuerzo en carrera.",
+    "definicion_larga": "Plan para gestionar el ritmo durante una prueba (iniciar conservador, mantener ritmo constante o hacer variaciones controladas) con el fin de optimizar el rendimiento y evitar la fatiga prematura.",
+    "ejemplo": "Aplicó un pacing negativo: saliendo algo más lento y acelerando en la segunda mitad.",
+    "sinonimos": ["Estrategia de carrera", "Gestión del ritmo"],
+    "imagen_url": "logo.png",
+    "categoria": "Competición"
+  },
+  {
+    "id": 38,
+    "termino": "Hidratación",
+    "definicion_corta": "Reposición de líquidos antes, durante y tras correr.",
+    "definicion_larga": "Mantener un estado de hidratación adecuado es clave para el rendimiento y la prevención de deshidratación; incluye agua y electrolitos según la duración e intensidad de la sesión y las condiciones ambientales.",
+    "ejemplo": "Bebió 150 ml cada 15 minutos durante la carrera larga en verano.",
+    "sinonimos": ["Aporte de líquidos"],
+    "imagen_url": "logo.png",
+    "categoria": "Nutrición"
+  },
+  {
+    "id": 39,
+    "termino": "Geles energéticos",
+    "definicion_corta": "Suplemento compacto de carbohidratos para carrera.",
+    "definicion_larga": "Geles con carbohidratos de rápida absorción (y a veces electrolitos/cafeína) diseñados para consumir en carrera y mantener la energía en sesiones largas o de alta intensidad.",
+    "ejemplo": "Tomó un gel cada 45 minutos en la maratón.",
+    "sinonimos": ["Geles", "Geles de carbohidratos"],
+    "imagen_url": "logo.png",
+    "categoria": "Nutrición"
+  },
+  {
+    "id": 40,
+    "termino": "Bebidas isotónicas",
+    "definicion_corta": "Líquidos con electrolitos para reponer sales.",
+    "definicion_larga": "Formuladas para ayudar a mantener el equilibrio de sales y aportar algo de carbohidratos durante el ejercicio prolongado; reducen el riesgo de calambres y mejoran la reposición hídrica.",
+    "ejemplo": "En entrenos largos usó bebida isotónica para reponer sales y energía.",
+    "sinonimos": ["Isotónicas", "Bebidas deportivas"],
+    "imagen_url": "logo.png",
+    "categoria": "Nutrición"
+  },
+  {
+    "id": 41,
+    "termino": "Suplementación deportiva",
+    "definicion_corta": "Uso de complementos para mejorar rendimiento o recuperación.",
+    "definicion_larga": "Incluye suplementos como proteína en polvo, cafeína, beta-alanina, hierro o multivitamínicos que, usados correctamente, pueden ayudar al rendimiento y la recuperación; siempre con criterio y supervisión profesional.",
+    "ejemplo": "Incluyó suplementación con proteína post-entreno y un suplemento de hierro tras la analítica.",
+    "sinonimos": ["Suplementos nutricionales"],
+    "imagen_url": "logo.png",
+    "categoria": "Nutrición"
+  },
+  {
+    "id": 42,
+    "termino": "Sobreentrenamiento",
+    "definicion_corta": "Estado de fatiga crónica por exceso de carga.",
+    "definicion_larga": "Situación donde la recuperación es insuficiente ante la carga de entrenamiento, provocando pérdida de rendimiento, fatiga persistente, alteraciones del sueño y mayor riesgo de lesión; requiere reducción de volumen e intervención multidisciplinar.",
+    "ejemplo": "Tras semanas de fatiga y mala recuperación, se diagnosticó sobreentrenamiento y bajó la carga.",
+    "sinonimos": ["Overtraining", "Fatiga por exceso"],
+    "imagen_url": "logo.png",
+    "categoria": "Salud"
+  },
+  {
+    "id": 43,
+    "termino": "Sobrecarga",
+    "definicion_corta": "Microdaño por esfuerzo repetido sin descanso.",
+    "definicion_larga": "Proceso por el que fuerzas repetidas o aumentos bruscos de volumen provocan microlesiones y dolor localizado; si no se gestiona puede evolucionar a lesión por sobreuso.",
+    "ejemplo": "La sobrecarga en los isquiotibiales apareció tras aumentar mucho el kilometraje semanal.",
+    "sinonimos": ["Lesión por sobreuso", "Overuse"],
+    "imagen_url": "logo.png",
+    "categoria": "Lesiones"
+  },
+  {
+    "id": 44,
+    "termino": "Tendinopatía",
+    "definicion_corta": "Afectación del tendón por uso o carga.",
+    "definicion_larga": "Dolor y deterioro del tendón (como Aquiles) asociado a sobreuso, biomecánica inadecuada o cargas mal dosificadas; suele requerir rehabilitación específica y modificación del entrenamiento.",
+    "ejemplo": "Sufrió una tendinopatía aquilea y pasó a ejercicios excéntricos en rehabilitación.",
+    "sinonimos": ["Tendinitis", "Lesión tendinosa"],
+    "imagen_url": "logo.png",
+    "categoria": "Lesiones"
+  },
+  {
+    "id": 45,
+    "termino": "Fascitis plantar",
+    "definicion_corta": "Dolor en la planta del pie por inflamación de la fascia.",
+    "definicion_larga": "Afección frecuente en corredores que provoca dolor en el talón y la planta, especialmente al levantarse o al apoyar tras un descanso; tratamiento con fisioterapia, estiramientos y ajuste del calzado.",
+    "ejemplo": "Para la fascitis plantar realizó ejercicios de estiramiento y cambio de zapatillas.",
+    "sinonimos": ["Fasciosis plantar"],
+    "imagen_url": "logo.png",
+    "categoria": "Lesiones"
+  },
+  {
+    "id": 46,
+    "termino": "Rotura de fibras",
+    "definicion_corta": "Desgarro parcial de la fibra muscular.",
+    "definicion_larga": "Lesión aguda del músculo producida por una contracción intensa o estiramiento excesivo que provoca dolor, pérdida de función y requiere tiempo de recuperación y fisioterapia según la gravedad.",
+    "ejemplo": "Tras un sprint sufrió una rotura de fibras en el gemelo y estuvo varias semanas fuera de carrera.",
+    "sinonimos": ["Desgarro muscular"],
+    "imagen_url": "logo.png",
+    "categoria": "Lesiones"
+  },
+  {
+    "id": 47,
+    "termino": "Biomecánica de la carrera",
+    "definicion_corta": "Estudio del movimiento al correr.",
+    "definicion_larga": "Análisis de cómo interactúan articulaciones, músculos y fuerzas durante la zancada para optimizar técnica, eficiencia y reducir riesgos; puede incluir vídeo, plataformas de presión y sensores.",
+    "ejemplo": "Mejoró su técnica tras una evaluación biomecánica que corrigió su postura al aterrizar.",
+    "sinonimos": ["Análisis biomecánico"],
+    "imagen_url": "logo.png",
+    "categoria": "Técnica"
+  },
+  {
+    "id": 48,
+    "termino": "Economía de carrera",
+    "definicion_corta": "Gasto energético a una velocidad dada.",
+    "definicion_larga": "Medida de cuánta energía consume un corredor para mantener una determinada velocidad; una mejor economía implica gastar menos energía a misma velocidad, lo que mejora el rendimiento en distancias largas.",
+    "ejemplo": "Trabajó fuerza y técnica para mejorar su economía de carrera y correr más eficiente.",
+    "sinonimos": ["Eficiencia de carrera"],
+    "imagen_url": "logo.png",
+    "categoria": "Fisiología"
+  },
+  {
+    "id": 49,
+    "termino": "Entrenamiento polarizado",
+    "definicion_corta": "Distribución de intensidades muy baja y muy alta.",
+    "definicion_larga": "Método de organización del entrenamiento que combina la mayoría del volumen a baja intensidad con una pequeña parte a muy alta intensidad (polarización entre zonas), buscando maximizar adaptaciones aeróbicas y anaeróbicas.",
+    "ejemplo": "Siguió un plan polarizado con mucho volumen suave y sesiones puntuales de VO₂máx.",
+    "sinonimos": ["Método polarizado"],
+    "imagen_url": "logo.png",
+    "categoria": "Entrenamiento"
+  },
+  {
+    "id": 50,
+    "termino": "Periodización",
+    "definicion_corta": "Planificación estructurada del entrenamiento.",
+    "definicion_larga": "Organización del entrenamiento en fases (preparación, acumulación, intensificación, tapering) y ciclos (micro, meso y macrociclos) para optimizar picos de forma y reducir el riesgo de sobreentrenamiento.",
+    "ejemplo": "La periodización del año incluyó una base aeróbica larga seguida de bloques de intensidad antes de la competición.",
+    "sinonimos": ["Planificación del entrenamiento"],
+    "imagen_url": "logo.png",
+    "categoria": "Entrenamiento"
+  },
+  {
+    "id": 51,
+    "termino": "Macrociclo",
+    "definicion_corta": "Periodo de entrenamiento de larga duración.",
+    "definicion_larga": "Es la estructura de planificación más amplia, generalmente abarca toda la temporada o un año completo, y se divide en mesociclos y microciclos.",
+    "ejemplo": "Su macrociclo empezó en enero y terminó con la maratón en noviembre.",
+    "sinonimos": ["Ciclo anual", "Plan anual"],
+    "imagen_url": "logo.png",
+    "categoria": "Planificación"
+  },
+  {
+    "id": 52,
+    "termino": "Mesociclo",
+    "definicion_corta": "Bloque de entrenamiento intermedio.",
+    "definicion_larga": "Conjunto de microciclos que duran entre 3 y 6 semanas, enfocados en objetivos específicos como base aeróbica, fuerza o intensidad.",
+    "ejemplo": "El mesociclo actual está centrado en mejorar el umbral anaeróbico.",
+    "sinonimos": ["Ciclo medio"],
+    "imagen_url": "logo.png",
+    "categoria": "Planificación"
+  },
+  {
+    "id": 53,
+    "termino": "Microciclo",
+    "definicion_corta": "Unidad más corta de planificación.",
+    "definicion_larga": "Suele abarcar una semana de entrenamiento y organiza las sesiones específicas, descansos y trabajos complementarios.",
+    "ejemplo": "Su microciclo incluyó 5 entrenamientos de carrera y 2 de fuerza.",
+    "sinonimos": ["Ciclo corto"],
+    "imagen_url": "logo.png",
+    "categoria": "Planificación"
+  },
+  {
+    "id": 54,
+    "termino": "Tapering",
+    "definicion_corta": "Reducción de carga antes de competir.",
+    "definicion_larga": "Fase previa a la competición donde se reduce el volumen de entrenamiento para llegar descansado, sin perder adaptaciones ni forma física.",
+    "ejemplo": "Hizo un tapering de dos semanas antes de la maratón.",
+    "sinonimos": ["Puesta a punto", "Afinamiento"],
+    "imagen_url": "logo.png",
+    "categoria": "Planificación"
+  },
+  {
+    "id": 57,
+    "termino": "Drop",
+    "definicion_corta": "Diferencia de altura entre talón y antepié en la zapatilla.",
+    "definicion_larga": "Un drop alto (8–12 mm) favorece el apoyo de talón, mientras que un drop bajo (0–4 mm) se asocia a una pisada más natural de mediopié.",
+    "ejemplo": "Cambié a unas zapatillas con drop de 4 mm para probar un estilo más natural.",
+    "sinonimos": ["Desnivel de zapatilla"],
+    "imagen_url": "logo.png",
+    "categoria": "Equipamiento"
+  },
+  {
+    "id": 58,
+    "termino": "Minimalismo",
+    "definicion_corta": "Correr con calzado ligero y con poco soporte.",
+    "definicion_larga": "Corriente que promueve el uso de zapatillas con bajo drop y poca amortiguación para favorecer una pisada más natural y fortalecer los pies.",
+    "ejemplo": "Adoptó el minimalismo y empezó con 5 km a la semana para adaptarse.",
+    "sinonimos": ["Running minimalista"],
+    "imagen_url": "logo.png",
+    "categoria": "Tendencias"
+  },
+  {
+    "id": 59,
+    "termino": "Barefoot running",
+    "definicion_corta": "Correr descalzo o con calzado de protección mínima.",
+    "definicion_larga": "Modalidad basada en la idea de que correr descalzo mejora la técnica natural y fortalece la musculatura del pie, aunque requiere adaptación progresiva.",
+    "ejemplo": "Hizo 2 km de barefoot running en césped como complemento.",
+    "sinonimos": ["Correr descalzo"],
+    "imagen_url": "logo.png",
+    "categoria": "Tendencias"
+  },
+  {
+    "id": 60,
+    "termino": "Amortiguación",
+    "definicion_corta": "Capacidad de la zapatilla para absorber el impacto.",
+    "definicion_larga": "La amortiguación reduce la carga en articulaciones y músculos; existen modelos con diferentes densidades y tecnologías según peso y tipo de corredor.",
+    "ejemplo": "Eligió unas zapatillas con gran amortiguación para tiradas largas.",
+    "sinonimos": ["Absorción de impacto"],
+    "imagen_url": "logo.png",
+    "categoria": "Equipamiento"
+  },
+  {
+    "id": 61,
+    "termino": "Drop cero",
+    "definicion_corta": "Zapatilla con la misma altura en talón y antepié.",
+    "definicion_larga": "Favorece una pisada más natural de mediopié y antepié, muy usado en el minimalismo y barefoot running.",
+    "ejemplo": "Sus nuevas zapatillas eran drop cero y necesitó una fase de adaptación.",
+    "sinonimos": ["Zero drop"],
+    "imagen_url": "logo.png",
+    "categoria": "Equipamiento"
+  },
+  {
+    "id": 67,
+    "termino": "Carrera popular",
+    "definicion_corta": "Evento abierto a corredores aficionados.",
+    "definicion_larga": "Competiciones locales que suelen tener distancias entre 5 y 10 km, organizadas por clubes, ayuntamientos o asociaciones deportivas.",
+    "ejemplo": "Participó en una carrera popular de 8 km en su barrio.",
+    "sinonimos": ["Prueba popular"],
+    "imagen_url": "logo.png",
+    "categoria": "Competición"
+  },
+  {
+    "id": 68,
+    "termino": "Carrera por relevos",
+    "definicion_corta": "Competición en equipos donde cada miembro corre un tramo.",
+    "definicion_larga": "Los corredores se van pasando un testigo o completan segmentos de una distancia total, muy común en pista y en pruebas de ultradistancia por equipos.",
+    "ejemplo": "Compitió en una carrera por relevos de 4x5 km.",
+    "sinonimos": ["Relevos"],
+    "imagen_url": "logo.png",
+    "categoria": "Competición"
+  },
+  {
+    "id": 69,
+    "termino": "Carrera de obstáculos",
+    "definicion_corta": "Prueba con elementos físicos a superar.",
+    "definicion_larga": "Competiciones como Spartan Race o OCR incluyen barro, muros, cuerdas y otros obstáculos que combinan resistencia con fuerza y agilidad.",
+    "ejemplo": "Superó una carrera de obstáculos de 12 km con 30 pruebas diferentes.",
+    "sinonimos": ["OCR", "Obstacle Course Race"],
+    "imagen_url": "logo.png",
+    "categoria": "Competición"
+  },
+  {
+    "id": 70,
+    "termino": "Crosstraining funcional",
+    "definicion_corta": "Ejercicios variados para mejorar fuerza y movilidad.",
+    "definicion_larga": "Combinación de movimientos funcionales, pesas, saltos y trabajo metabólico que mejora la condición general y ayuda al rendimiento en carrera.",
+    "ejemplo": "Hace crosstraining funcional dos veces por semana.",
+    "sinonimos": ["Entrenamiento funcional"],
+    "imagen_url": "logo.png",
+    "categoria": "Entrenamiento"
+  },
+  {
+    "id": 71,
+    "termino": "Isquiotibiales",
+    "definicion_corta": "Grupo muscular en la parte posterior del muslo.",
+    "definicion_larga": "Los isquios son claves en la propulsión y en la técnica de carrera; suelen ser propensos a sobrecargas y lesiones en corredores.",
+    "ejemplo": "Hizo estiramientos de isquiotibiales después de entrenar.",
+    "sinonimos": ["Isquios"],
+    "imagen_url": "logo.png",
+    "categoria": "Anatomía"
+  },
+  {
+    "id": 72,
+    "termino": "Gemelos",
+    "definicion_corta": "Músculos de la pantorrilla que intervienen en la propulsión.",
+    "definicion_larga": "Formados por el gastrocnemio y el sóleo, ayudan a impulsar el cuerpo en cada zancada; muy implicados en subidas y sprints.",
+    "ejemplo": "Sufrió una contractura en los gemelos tras un entrenamiento duro.",
+    "sinonimos": ["Pantorrilla"],
+    "imagen_url": "logo.png",
+    "categoria": "Anatomía"
+  },
+  {
+    "id": 73,
+    "termino": "Cuádriceps",
+    "definicion_corta": "Músculos en la parte frontal del muslo.",
+    "definicion_larga": "Intervienen en la extensión de la rodilla y estabilizan la zancada; son esenciales en bajadas y carreras en asfalto.",
+    "ejemplo": "Notó agujetas en los cuádriceps tras la carrera de montaña.",
+    "sinonimos": ["Quadriceps"],
+    "imagen_url": "logo.png",
+    "categoria": "Anatomía"
+  },
+  {
+    "id": 74,
+    "termino": "Glúteos",
+    "definicion_corta": "Músculos de la cadera que estabilizan la zancada.",
+    "definicion_larga": "Son claves para la extensión de cadera y la estabilidad de la pelvis; glúteo mayor, medio y menor trabajan en cada fase de la carrera.",
+    "ejemplo": "Fortaleció glúteos para evitar lesiones de rodilla.",
+    "sinonimos": ["Músculos glúteos"],
+    "imagen_url": "logo.png",
+    "categoria": "Anatomía"
+  },
+  {
+    "id": 75,
+    "termino": "Core",
+    "definicion_corta": "Conjunto de músculos abdominales y lumbares.",
+    "definicion_larga": "Incluye abdomen, lumbares y músculos profundos que estabilizan el tronco, fundamentales para una técnica de carrera eficiente y prevenir lesiones.",
+    "ejemplo": "Trabajó core con planchas y ejercicios de estabilidad.",
+    "sinonimos": ["Zona media"],
+    "imagen_url": "logo.png",
+    "categoria": "Anatomía"
+  },
+  {
+    "id": 78,
+    "termino": "Progresivo",
+    "definicion_corta": "Correr aumentando el ritmo de manera gradual.",
+    "definicion_larga": "Entrenamiento donde se inicia a ritmo suave y se incrementa progresivamente hasta alcanzar un ritmo fuerte al final, mejorando resistencia y gestión del esfuerzo.",
+    "ejemplo": "Corrió 10 km en progresivo, terminando los últimos 2 km a ritmo de carrera.",
+    "sinonimos": ["Run progresivo"],
+    "imagen_url": "logo.png",
+    "categoria": "Entrenamiento"
+  },
+  {
+    "id": 79,
+    "termino": "Series largas",
+    "definicion_corta": "Repeticiones de mayor distancia a ritmo intenso.",
+    "definicion_larga": "Series de 1 km o más a ritmo controlado alto, enfocadas en resistencia y velocidad aeróbica.",
+    "ejemplo": "Hizo 4 series de 1500 m al ritmo objetivo de 10K.",
+    "sinonimos": ["Largas distancias por series"],
+    "imagen_url": "logo.png",
+    "categoria": "Entrenamiento"
+  },
+  {
+    "id": 80,
+    "termino": "Series cortas",
+    "definicion_corta": "Repeticiones de poca distancia a alta intensidad.",
+    "definicion_larga": "Series de 100–400 m para trabajar velocidad máxima, técnica y potencia anaeróbica.",
+    "ejemplo": "Hizo 10 series de 200 m al 95% de intensidad.",
+    "sinonimos": ["Sprints", "Cortas distancias por series"],
+    "imagen_url": "logo.png",
+    "categoria": "Entrenamiento"
+  },
+  {
+    "id": 81,
+    "termino": "Entrenamiento en cuestas",
+    "definicion_corta": "Carrera cuesta arriba para fuerza y potencia.",
+    "definicion_larga": "Se realizan repeticiones subiendo pendientes, mejorando fuerza de piernas, zancada y resistencia anaeróbica.",
+    "ejemplo": "Hizo 6 repeticiones de 200 m en subida al 85% de intensidad.",
+    "sinonimos": ["Series en pendiente", "Hill training"],
+    "imagen_url": "logo.png",
+    "categoria": "Entrenamiento"
+  },
+  {
+    "id": 82,
+    "termino": "Descenso controlado",
+    "definicion_corta": "Bajar cuestas manteniendo técnica.",
+    "definicion_larga": "Ejercicio que enseña a descender pendientes sin perder estabilidad, minimizando impacto y riesgo de lesión.",
+    "ejemplo": "Practica descenso controlado en trail para proteger rodillas y tobillos.",
+    "sinonimos": ["Downhill controlado"],
+    "imagen_url": "logo.png",
+    "categoria": "Entrenamiento"
+  },
+  {
+    "id": 83,
+    "termino": "Calentamiento",
+    "definicion_corta": "Preparación del cuerpo antes de correr.",
+    "definicion_larga": "Rutina de movilidad, ejercicios dinámicos y trote suave para aumentar la temperatura corporal, activar musculatura y prevenir lesiones.",
+    "ejemplo": "Realizó 15 minutos de calentamiento antes de la sesión de series.",
+    "sinonimos": ["Warm-up"],
+    "imagen_url": "logo.png",
+    "categoria": "Preparación"
+  },
+  {
+    "id": 84,
+    "termino": "Vuelta a la calma",
+    "definicion_corta": "Actividad suave tras entrenar para recuperación.",
+    "definicion_larga": "Trote ligero y estiramientos después de la sesión intensa para favorecer recuperación y eliminar ácido láctico.",
+    "ejemplo": "Terminó la sesión con 10 minutos de vuelta a la calma.",
+    "sinonimos": ["Cool-down", "Enfriamiento"],
+    "imagen_url": "logo.png",
+    "categoria": "Recuperación"
+  },
+  {
+    "id": 85,
+    "termino": "Recuperación activa",
+    "definicion_corta": "Ejercicio ligero tras entrenamiento intenso.",
+    "definicion_larga": "Trote muy suave o bicicleta ligera que mantiene circulación y facilita eliminación de desechos metabólicos sin fatigar el cuerpo.",
+    "ejemplo": "Después de las series hizo 15 minutos de recuperación activa.",
+    "sinonimos": ["Active recovery"],
+    "imagen_url": "logo.png",
+    "categoria": "Recuperación"
+  },
+  {
+    "id": 86,
+    "termino": "Recuperación pasiva",
+    "definicion_corta": "Descanso completo tras entrenar.",
+    "definicion_larga": "Período sin actividad física intensa, permitiendo reposo total y reparación muscular.",
+    "ejemplo": "Tras la maratón realizó 2 días de recuperación pasiva.",
+    "sinonimos": ["Descanso total"],
+    "imagen_url": "logo.png",
+    "categoria": "Recuperación"
+  },
+  {
+    "id": 87,
+    "termino": "Rodaje",
+    "definicion_corta": "Carrera a ritmo cómodo y constante.",
+    "definicion_larga": "Sesión de entrenamiento fundamental para base aeróbica, que permite acumular kilómetros sin fatiga excesiva.",
+    "ejemplo": "Hoy tocaba rodaje de 12 km a ritmo suave.",
+    "sinonimos": ["Trote", "Long slow distance (LSD)"],
+    "imagen_url": "logo.png",
+    "categoria": "Entrenamiento"
+  },
+  {
+    "id": 88,
+    "termino": "Trote suave",
+    "definicion_corta": "Carrera a ritmo muy cómodo.",
+    "definicion_larga": "Ejercicio de baja intensidad, útil para recuperación o calentamiento, que permite activar circulación y técnica sin fatiga.",
+    "ejemplo": "Hizo 5 km de trote suave tras series intensas.",
+    "sinonimos": ["Easy run", "Slow jog"],
+    "imagen_url": "logo.png",
+    "categoria": "Entrenamiento"
+  },
+  {
+    "id": 89,
+    "termino": "Trote largo",
+    "definicion_corta": "Rodaje de mayor distancia.",
+    "definicion_larga": "Sesión de carrera continua más larga de lo habitual, enfocada en resistencia aeróbica y adaptación metabólica.",
+    "ejemplo": "Rodaje largo de 20 km dominical para preparar media maratón.",
+    "sinonimos": ["Long run"],
+    "imagen_url": "logo.png",
+    "categoria": "Entrenamiento"
+  },
+  {
+    "id": 90,
+    "termino": "Sprint",
+    "definicion_corta": "Carrera máxima velocidad corta distancia.",
+    "definicion_larga": "Ejercicio de alta intensidad que trabaja velocidad, potencia y tolerancia anaeróbica.",
+    "ejemplo": "Hizo 8 sprints de 100 m con 2 minutos de descanso.",
+    "sinonimos": ["Velocidad máxima"],
+    "imagen_url": "logo.png",
+    "categoria": "Entrenamiento"
+  },
+  {
+    "id": 92,
+    "termino": "Entrenamiento en cuestas largas",
+    "definicion_corta": "Series subiendo pendientes prolongadas.",
+    "definicion_larga": "Mejora resistencia muscular, capacidad anaeróbica y potencia de zancada; suelen ser de 300–800 m de pendiente moderada.",
+    "ejemplo": "Hizo 4 repeticiones de 500 m en cuesta larga al 80% de intensidad.",
+    "sinonimos": ["Hill repeats long"],
+    "imagen_url": "logo.png",
+    "categoria": "Entrenamiento"
+  },
+  {
+    "id": 93,
+    "termino": "Entrenamiento en cuestas cortas",
+    "definicion_corta": "Series explosivas subiendo pendientes cortas.",
+    "definicion_larga": "Series de 50–200 m a máxima intensidad para mejorar potencia y velocidad.",
+    "ejemplo": "5 repeticiones de 100 m en cuesta corta al 95% de esfuerzo.",
+    "sinonimos": ["Hill sprints", "Cuestas cortas"],
+    "imagen_url": "logo.png",
+    "categoria": "Entrenamiento"
+  },
+  {
+    "id": 94,
+    "termino": "Rodaje regenerativo",
+    "definicion_corta": "Rodaje muy suave tras entrenamiento intenso.",
+    "definicion_larga": "Sesión de baja intensidad para mejorar circulación y recuperación activa sin añadir estrés muscular significativo.",
+    "ejemplo": "10 km de rodaje regenerativo tras el día de series intensas.",
+    "sinonimos": ["Recovery run"],
+    "imagen_url": "logo.png",
+    "categoria": "Recuperación"
+  },
+  {
+    "id": 95,
+    "termino": "Entrenamiento cruzado",
+    "definicion_corta": "Deportes complementarios al running.",
+    "definicion_larga": "Natación, ciclismo, remo u otras actividades que ayudan a mantener condición física y evitar sobrecarga por repetición de la carrera.",
+    "ejemplo": "Realizó 45 minutos de ciclismo como entrenamiento cruzado.",
+    "sinonimos": ["Cross-training"],
+    "imagen_url": "logo.png",
+    "categoria": "Entrenamiento"
+  },
+  {
+    "id": 96,
+    "termino": "Velocidad aeróbica",
+    "definicion_corta": "Ritmo rápido sostenible aeróbicamente.",
+    "definicion_larga": "Velocidad máxima que se puede mantener utilizando principalmente metabolismo aeróbico, útil en carreras de 5–10 km.",
+    "ejemplo": "Trabajó velocidad aeróbica con series de 1000 m al ritmo de 10K.",
+    "sinonimos": ["Aerobic speed"],
+    "imagen_url": "logo.png",
+    "categoria": "Entrenamiento"
+  },
+  {
+    "id": 97,
+    "termino": "Velocidad máxima",
+    "definicion_corta": "Ritmo de carrera al límite del esfuerzo.",
+    "definicion_larga": "Intensidad máxima que un corredor puede mantener durante pocos segundos o decenas de metros, trabajando potencia y sistema anaeróbico.",
+    "ejemplo": "Sprint de 50 m al 100% para mejorar velocidad máxima.",
+    "sinonimos": ["Max speed", "Sprint speed"],
+    "imagen_url": "logo.png",
+    "categoria": "Entrenamiento"
+  },
+  {
+    "id": 98,
+    "termino": "Velocidad umbral",
+    "definicion_corta": "Ritmo cercano al umbral anaeróbico.",
+    "definicion_larga": "Velocidad máxima que se puede sostener sin acumular lactato excesivo, usada para entrenamientos tempo y pruebas de 10K–21K.",
+    "ejemplo": "Series de 5x2 km a velocidad umbral para preparar media maratón.",
+    "sinonimos": ["Threshold pace"],
+    "imagen_url": "logo.png",
+    "categoria": "Entrenamiento"
+  },
+  {
+    "id": 99,
+    "termino": "Frecuencia cardíaca máxima (FCM)",
+    "definicion_corta": "Mayor número de pulsaciones por minuto.",
+    "definicion_larga": "Indicador individual para calcular zonas de entrenamiento; suele aproximarse con 220 – edad, aunque la medición directa es más precisa.",
+    "ejemplo": "Su FCM es de 190 ppm y planificó zonas según este valor.",
+    "sinonimos": ["FC máx", "HRmax"],
+    "imagen_url": "logo.png",
+    "categoria": "Fisiología"
+  },
+  {
+    "id": 100,
+    "termino": "Frecuencia cardíaca en reposo (FCR)",
+    "definicion_corta": "Pulsaciones por minuto en reposo completo.",
+    "definicion_larga": "Valor que refleja estado de forma cardiovascular y recuperación; corredores entrenados suelen tener FCR más baja.",
+    "ejemplo": "Su FCR es de 48 ppm, señal de buena condición aeróbica.",
+    "sinonimos": ["Resting HR", "Pulso en reposo"],
+    "imagen_url": "logo.png",
+    "categoria": "Fisiología"
+  },
+  {
+    "id": 101,
+    "termino": "VO₂máx",
+    "definicion_corta": "Máxima capacidad de consumo de oxígeno.",
+    "definicion_larga": "Indicador de la capacidad aeróbica del corredor; un VO₂máx alto permite mantener ritmos más rápidos durante más tiempo.",
+    "ejemplo": "Su VO₂máx es de 58 ml/kg/min, ideal para medias maratones.",
+    "sinonimos": ["Consumo máximo de oxígeno"],
+    "imagen_url": "logo.png",
+    "categoria": "Fisiología"
+  },
+  {
+    "id": 102,
+    "termino": "Umbral anaeróbico",
+    "definicion_corta": "Punto donde el lactato se acumula en sangre.",
+    "definicion_larga": "Intensidad máxima que se puede mantener antes de que la producción de ácido láctico supere la capacidad de eliminación, limitando la duración del esfuerzo.",
+    "ejemplo": "Corrió a su umbral anaeróbico durante 20 minutos para entrenar tolerancia al lactato.",
+    "sinonimos": ["Lactate threshold", "Umbral de lactato"],
+    "imagen_url": "logo.png",
+    "categoria": "Fisiología"
+  },
+  {
+    "id": 103,
+    "termino": "Economía de carrera",
+    "definicion_corta": "Consumo de energía a un ritmo determinado.",
+    "definicion_larga": "Indica cuánta energía gasta un corredor a una velocidad concreta; mejorar la economía permite correr más rápido gastando menos oxígeno.",
+    "ejemplo": "Mejoró su economía de carrera con trabajo de técnica y fuerza.",
+    "sinonimos": ["Running economy"],
+    "imagen_url": "logo.png",
+    "categoria": "Fisiología"
+  },
+  {
+    "id": 104,
+    "termino": "Sobrecarga progresiva",
+    "definicion_corta": "Incremento gradual de intensidad o volumen.",
+    "definicion_larga": "Principio de entrenamiento que consiste en aumentar la carga poco a poco para inducir adaptaciones sin riesgo de lesión.",
+    "ejemplo": "Aumentó el kilometraje semanal aplicando sobrecarga progresiva.",
+    "sinonimos": ["Progressive overload"],
+    "imagen_url": "logo.png",
+    "categoria": "Entrenamiento"
+  },
+  {
+    "id": 105,
+    "termino": "Fuerza específica",
+    "definicion_corta": "Fortalecimiento orientado a la carrera.",
+    "definicion_larga": "Ejercicios de fuerza que replican movimientos de la carrera, mejorando propulsión, estabilidad y eficiencia de zancada.",
+    "ejemplo": "Incluyó sentadillas y zancadas para desarrollar fuerza específica.",
+    "sinonimos": ["Strength training for running"],
+    "imagen_url": "logo.png",
+    "categoria": "Entrenamiento"
+  },
+  {
+    "id": 106,
+    "termino": "Propriocepción",
+    "definicion_corta": "Capacidad de percibir posición y movimiento del cuerpo.",
+    "definicion_larga": "Habilidad para detectar la posición de pies y articulaciones, clave para equilibrio, estabilidad y prevención de lesiones al correr.",
+    "ejemplo": "Trabajó propriocepción con ejercicios en bosu y equilibrio.",
+    "sinonimos": ["Propiocepción"],
+    "imagen_url": "logo.png",
+    "categoria": "Entrenamiento"
+  },
+  {
+    "id": 107,
+    "termino": "Flexibilidad",
+    "definicion_corta": "Rango de movimiento de articulaciones y músculos.",
+    "definicion_larga": "Permite movimientos más eficientes y reduce riesgo de lesiones; se trabaja mediante estiramientos dinámicos y estáticos.",
+    "ejemplo": "Estiró isquios y gemelos para mantener buena flexibilidad.",
+    "sinonimos": ["Elasticidad muscular"],
+    "imagen_url": "logo.png",
+    "categoria": "Entrenamiento"
+  },
+  {
+    "id": 108,
+    "termino": "Movilidad articular",
+    "definicion_corta": "Capacidad de movimiento seguro de las articulaciones.",
+    "definicion_larga": "Importante para zancadas amplias y prevención de lesiones; incluye ejercicios de cadera, tobillo, rodilla y hombro.",
+    "ejemplo": "Hizo movilidad de cadera antes de la sesión de rodaje.",
+    "sinonimos": ["Joint mobility"],
+    "imagen_url": "logo.png",
+    "categoria": "Entrenamiento"
+  },
+  {
+    "id": 109,
+    "termino": "Entrenamiento de fuerza general",
+    "definicion_corta": "Rutina de fuerza no específica para correr.",
+    "definicion_larga": "Ejercicios de musculación para todo el cuerpo que mejoran resistencia, postura y prevención de lesiones, aunque no replican directamente la zancada.",
+    "ejemplo": "Incluyó press de banca y remo como fuerza general.",
+    "sinonimos": ["General strength training"],
+    "imagen_url": "logo.png",
+    "categoria": "Entrenamiento"
+  },
+  {
+    "id": 110,
+    "termino": "Entrenamiento pliométrico",
+    "definicion_corta": "Ejercicios de saltos y rebotes.",
+    "definicion_larga": "Aumenta potencia y explosividad de piernas, mejorando zancada y velocidad máxima.",
+    "ejemplo": "Saltos pliométricos en escalera para mejorar potencia.",
+    "sinonimos": ["Plyometrics"],
+    "imagen_url": "logo.png",
+    "categoria": "Entrenamiento"
+  },
+  {
+    "id": 111,
+    "termino": "Entrenamiento de core",
+    "definicion_corta": "Trabajo de músculos abdominales y lumbares.",
+    "definicion_larga": "Fortalece tronco y estabilidad, mejorando postura, técnica y eficiencia de carrera.",
+    "ejemplo": "Planchas y hollow holds para fortalecer el core.",
+    "sinonimos": ["Core training"],
+    "imagen_url": "logo.png",
+    "categoria": "Entrenamiento"
+  },
+  {
+    "id": 112,
+    "termino": "Biomecánica de carrera",
+    "definicion_corta": "Estudio de movimientos al correr.",
+    "definicion_larga": "Analiza postura, zancada, cadencia y apoyos para mejorar eficiencia y prevenir lesiones.",
+    "ejemplo": "Revisó su biomecánica para evitar sobrecarga de rodilla.",
+    "sinonimos": ["Running biomechanics"],
+    "imagen_url": "logo.png",
+    "categoria": "Técnica"
+  },
+  {
+    "id": 113,
+    "termino": "Apoyo de talón",
+    "definicion_corta": "Pisada inicial con talón.",
+    "definicion_larga": "Estilo de pisada donde el contacto con el suelo comienza con el talón, común en corredores de asfalto.",
+    "ejemplo": "Tiene apoyo de talón predominante en sus rodajes.",
+    "sinonimos": ["Heel strike"],
+    "imagen_url": "logo.png",
+    "categoria": "Técnica"
+  },
+  {
+    "id": 114,
+    "termino": "Apoyo de mediopié",
+    "definicion_corta": "Pisada inicial con la parte media del pie.",
+    "definicion_larga": "Favorece absorción natural del impacto y zancada más eficiente, común en corredores minimalistas.",
+    "ejemplo": "Su técnica natural es de apoyo de mediopié.",
+    "sinonimos": ["Midfoot strike"],
+    "imagen_url": "logo.png",
+    "categoria": "Técnica"
+  },
+  {
+    "id": 115,
+    "termino": "Apoyo de antepié",
+    "definicion_corta": "Pisada inicial con la parte delantera del pie.",
+    "definicion_larga": "Usada por velocistas y corredores minimalistas; permite rápida propulsión pero requiere adaptación para evitar lesiones.",
+    "ejemplo": "Entrenó antepié en series cortas y explosivas.",
+    "sinonimos": ["Forefoot strike"],
+    "imagen_url": "logo.png",
+    "categoria": "Técnica"
+  },
+  {
+    "id": 116,
+    "termino": "Overstriding",
+    "definicion_corta": "Zancada demasiado larga que puede causar lesiones.",
+    "definicion_larga": "Pisada con el pie muy adelantado al centro de gravedad; reduce eficiencia y aumenta riesgo de sobrecarga de rodilla y cadera.",
+    "ejemplo": "Corrige overstriding aumentando cadencia.",
+    "sinonimos": ["Sobre zancada"],
+    "imagen_url": "logo.png",
+    "categoria": "Técnica"
+  },
+  {
+    "id": 117,
+    "termino": "Understriding",
+    "definicion_corta": "Zancada demasiado corta que reduce eficiencia.",
+    "definicion_larga": "Pisada con escasa amplitud, obliga a mayor frecuencia de pasos para mantener velocidad, pudiendo aumentar fatiga.",
+    "ejemplo": "Mejoró understriding con trabajo de fuerza y técnica.",
+    "sinonimos": ["Zancada corta"],
+    "imagen_url": "logo.png",
+    "categoria": "Técnica"
+  },
+  {
+    "id": 118,
+    "termino": "Patrón de zancada",
+    "definicion_corta": "Forma individual de correr.",
+    "definicion_larga": "Incluye cadencia, amplitud, tipo de apoyo y postura; analizarlo ayuda a optimizar técnica y prevenir lesiones.",
+    "ejemplo": "Analizó su patrón de zancada con vídeo y sensores.",
+    "sinonimos": ["Stride pattern"],
+    "imagen_url": "logo.png",
+    "categoria": "Técnica"
+  },
+  {
+    "id": 119,
+    "termino": "Apoyo neutro",
+    "definicion_corta": "Pisada donde el pie se mantiene alineado.",
+    "definicion_larga": "Distribución equilibrada de peso durante la zancada; ideal para la mayoría de corredores con calzado estable o neutro.",
+    "ejemplo": "Sus zapatillas neutras son adecuadas para su apoyo neutro.",
+    "sinonimos": ["Neutral strike"],
+    "imagen_url": "logo.png",
+    "categoria": "Técnica"
+  },
+  {
+    "id": 120,
+    "termino": "Pronación",
+    "definicion_corta": "Rotación interna del pie al apoyar.",
+    "definicion_larga": "Movimiento natural que absorbe impacto; excesiva pronación puede causar lesiones y requiere calzado específico.",
+    "ejemplo": "Tiene pronación ligera y utiliza zapatillas de soporte medio.",
+    "sinonimos": ["Pronation"],
+    "imagen_url": "logo.png",
+    "categoria": "Técnica"
+  },
+  {
+    "id": 121,
+    "termino": "Supinación",
+    "definicion_corta": "Rotación externa del pie al apoyar.",
+    "definicion_larga": "Movimiento donde el pie se apoya más en el borde externo; puede aumentar riesgo de lesiones si es excesiva.",
+    "ejemplo": "Sufre supinación y usa zapatillas acolchadas y estables.",
+    "sinonimos": ["Underpronation"],
+    "imagen_url": "logo.png",
+    "categoria": "Técnica"
+  },
+  {
+    "id": 122,
+    "termino": "Amplitud de zancada",
+    "definicion_corta": "Distancia entre apoyos consecutivos.",
+    "definicion_larga": "Determina velocidad y eficiencia; trabajar fuerza y técnica ayuda a aumentar amplitud sin comprometer estabilidad.",
+    "ejemplo": "Mejoró amplitud de zancada con ejercicios pliométricos.",
+    "sinonimos": ["Stride length"],
+    "imagen_url": "logo.png",
+    "categoria": "Técnica"
+  },
+  {
+    "id": 123,
+    "termino": "Tiempo de contacto",
+    "definicion_corta": "Duración del pie en el suelo por zancada.",
+    "definicion_larga": "Tiempo breve suele indicar mayor eficiencia y velocidad; se puede medir con sensores de carrera o vídeo.",
+    "ejemplo": "Reducir tiempo de contacto mejoró su velocidad.",
+    "sinonimos": ["Ground contact time"],
+    "imagen_url": "logo.png",
+    "categoria": "Técnica"
+  },
+  {
+    "id": 124,
+    "termino": "Elevación de rodilla",
+    "definicion_corta": "Altura de la rodilla al avanzar la pierna.",
+    "definicion_larga": "Mayor elevación contribuye a zancadas más largas y potencia; útil en técnica de velocidad y sprint.",
+    "ejemplo": "Ejercicios de skipping mejoraron elevación de rodilla.",
+    "sinonimos": ["Knee lift"],
+    "imagen_url": "logo.png",
+    "categoria": "Técnica"
+  },
+  {
+    "id": 125,
+    "termino": "Balance de brazos",
+    "definicion_corta": "Movimiento coordinado de brazos al correr.",
+    "definicion_larga": "Ayuda a mantener equilibrio, estabilidad y cadencia; brazos van opuestos a piernas de manera rítmica.",
+    "ejemplo": "Mejoró balance de brazos para evitar desequilibrio en carrera.",
+    "sinonimos": ["Arm swing"],
+    "imagen_url": "logo.png",
+    "categoria": "Técnica"
+  },
+  {
+    "id": 126,
+    "termino": "CarrerasVLC",
+    "definicion_corta": "Portal web dedicado al running en Valencia.",
+    "definicion_larga": "Carreras Populares Valencia es el portal de referencia para el running en Valencia. Contiene calendario de carreras, circuitos, noticias, app propia para android...¡Y mucho más! Puedes visitar CarrerasVLC.es para descubir todas las novedades",
+    "ejemplo": "Se informó de las próximas carreras populares en CarrerasVLC.",
+    "sinonimos": ["Carreras populares Valencia"],
+    "imagen_url": "logo.png",
+    "categoria": "Web"
+  },
+  {
+    "id": 127,
+    "termino": "Postura corporal",
+    "definicion_corta": "Alineación del tronco y cabeza al correr.",
+    "definicion_larga": "Mantener postura erguida y ligera inclinación hacia delante mejora eficiencia y reduce riesgo de lesiones.",
+    "ejemplo": "Trabajó postura corporal con ejercicios de core y conciencia postural.",
+    "sinonimos": ["Running posture"],
+    "imagen_url": "logo.png",
+    "categoria": "Técnica"
+  },
+  {
+    "id": 128,
+    "termino": "Zancada",
+    "definicion_corta": "Distancia entre dos apoyos consecutivos del mismo pie.",
+    "definicion_larga": "Influye en velocidad y economía; zancada muy larga o corta puede disminuir eficiencia y aumentar riesgo de lesiones.",
+    "ejemplo": "Mejoró zancada con trabajo de fuerza y técnica.",
+    "sinonimos": ["Stride length"],
+    "imagen_url": "logo.png",
+    "categoria": "Técnica"
+  },
+  {
+    "id": 129,
+    "termino": "Desplazamiento horizontal",
+    "definicion_corta": "Movimiento hacia adelante durante la carrera.",
+    "definicion_larga": "Optimizar el desplazamiento horizontal permite correr más rápido gastando menos energía vertical.",
+    "ejemplo": "Se enfocó en mejorar desplazamiento horizontal mediante técnica de carrera.",
+    "sinonimos": ["Forward movement"],
+    "imagen_url": "logo.png",
+    "categoria": "Técnica"
+  },
+  {
+    "id": 130,
+    "termino": "Desplazamiento vertical",
+    "definicion_corta": "Elevación del cuerpo durante la zancada.",
+    "definicion_larga": "Excesivo desplazamiento vertical genera gasto energético innecesario; controlarlo mejora eficiencia.",
+    "ejemplo": "Reducir desplazamiento vertical ayudó a conservar energía en la maratón.",
+    "sinonimos": ["Vertical oscillation"],
+    "imagen_url": "logo.png",
+    "categoria": "Técnica"
+  },
+  {
+    "id": 131,
+    "termino": "Entrenamiento de técnica",
+    "definicion_corta": "Ejercicios específicos para mejorar forma de correr.",
+    "definicion_larga": "Incluye skipping, talones al glúteo, zancada larga y pliometría; busca optimizar eficiencia y reducir lesiones.",
+    "ejemplo": "Incorporó 15 minutos de técnica antes del rodaje.",
+    "sinonimos": ["Running drills", "Técnica de carrera"],
+    "imagen_url": "logo.png",
+    "categoria": "Entrenamiento"
+  },
+  {
+    "id": 132,
+    "termino": "Skipping",
+    "definicion_corta": "Elevación alterna de rodillas para técnica.",
+    "definicion_larga": "Ejercicio de técnica de carrera que mejora elevación de rodilla, propulsión y coordinación.",
+    "ejemplo": "Hizo 3x30 m de skipping antes de las series.",
+    "sinonimos": ["High knees"],
+    "imagen_url": "logo.png",
+    "categoria": "Técnica"
+  },
+  {
+    "id": 133,
+    "termino": "Talones al glúteo",
+    "definicion_corta": "Ejercicio de zancada hacia atrás.",
+    "definicion_larga": "Mejora flexión de rodilla, coordinación y fortalecimiento de isquiotibiales; útil en técnica y calentamiento.",
+    "ejemplo": "Incluyó 2x20 m de talones al glúteo en calentamiento.",
+    "sinonimos": ["Butt kicks"],
+    "imagen_url": "logo.png",
+    "categoria": "Técnica"
+  },
+  {
+    "id": 134,
+    "termino": "Zancada larga",
+    "definicion_corta": "Ejercicio para aumentar amplitud de paso.",
+    "definicion_larga": "Potencia propulsión y fuerza específica; ayuda a mejorar economía y velocidad.",
+    "ejemplo": "Hizo 3x20 m de zancadas largas antes de rodaje.",
+    "sinonimos": ["Bounding strides"],
+    "imagen_url": "logo.png",
+    "categoria": "Técnica"
+  },
+  {
+    "id": 135,
+    "termino": "Drill de equilibrio",
+    "definicion_corta": "Ejercicio para mejorar estabilidad al correr.",
+    "definicion_larga": "Se realizan ejercicios sobre un solo pie o superficies inestables para fortalecer tobillos y core, reduciendo riesgo de esguinces.",
+    "ejemplo": "Incluyó drill de equilibrio de 5 minutos tras rodaje.",
+    "sinonimos": ["Balance drills"],
+    "imagen_url": "logo.png",
+    "categoria": "Técnica"
+  },
+  {
+    "id": 136,
+    "termino": "Progresión de rodaje",
+    "definicion_corta": "Aumentar ritmo durante la carrera.",
+    "definicion_larga": "Se empieza a ritmo suave y se incrementa gradualmente; mejora control de esfuerzo y resistencia.",
+    "ejemplo": "10 km en progresión, terminando últimos 2 km a ritmo de carrera.",
+    "sinonimos": ["Progressive run"],
+    "imagen_url": "logo.png",
+    "categoria": "Entrenamiento"
+  },
+  {
+    "id": 137,
+    "termino": "Tempo run",
+    "definicion_corta": "Carrera a ritmo sostenido cercano a umbral.",
+    "definicion_larga": "Entrenamiento que desarrolla tolerancia al lactato y mejora velocidad aeróbica y eficiencia en medias distancias.",
+    "ejemplo": "Hizo 6 km a ritmo tempo para preparar 10K.",
+    "sinonimos": ["Carrera tempo", "Threshold run"],
+    "imagen_url": "logo.png",
+    "categoria": "Entrenamiento"
+  },
+  {
+    "id": 138,
+    "termino": "Carrera continua",
+    "definicion_corta": "Rodaje a ritmo constante y cómodo.",
+    "definicion_larga": "Funda mental y físicamente resistencia aeróbica; no incluye cambios bruscos de ritmo.",
+    "ejemplo": "Hizo 12 km de carrera continua a ritmo moderado.",
+    "sinonimos": ["Continuous run", "Steady run"],
+    "imagen_url": "logo.png",
+    "categoria": "Entrenamiento"
+  },
+  {
+    "id": 139,
+    "termino": "Carrera regenerativa",
+    "definicion_corta": "Rodaje muy suave para recuperación.",
+    "definicion_larga": "Favorece flujo sanguíneo y recuperación activa después de entrenamientos intensos o competición.",
+    "ejemplo": "8 km regenerativos tras la media maratón.",
+    "sinonimos": ["Recovery run", "Easy run"],
+    "imagen_url": "logo.png",
+    "categoria": "Recuperación"
+  },
+  {
+    "id": 140,
+    "termino": "Carrera en ayunas",
+    "definicion_corta": "Entrenamiento antes de desayunar.",
+    "definicion_larga": "Se busca estimular metabolismo de grasas y resistencia aeróbica; debe hacerse a intensidad baja o moderada.",
+    "ejemplo": "Rodaje de 45 min en ayunas para mejorar capacidad aeróbica.",
+    "sinonimos": ["Fasted run"],
+    "imagen_url": "logo.png",
+    "categoria": "Entrenamiento"
+  },
+  {
+    "id": 141,
+    "termino": "Carrera en cuestas",
+    "definicion_corta": "Rodaje con pendiente para fuerza y técnica.",
+    "definicion_larga": "Mejora fuerza específica, potencia y economía; alterna subidas y bajadas controladas.",
+    "ejemplo": "5 km en cuestas suaves combinando subida y bajada controlada.",
+    "sinonimos": ["Hill run"],
+    "imagen_url": "logo.png",
+    "categoria": "Entrenamiento"
+  },
+  {
+    "id": 142,
+    "termino": "Trail running",
+    "definicion_corta": "Correr por senderos o montaña.",
+    "definicion_larga": "Mejora fuerza, equilibrio y resistencia; requiere adaptación a terreno irregular y desnivel.",
+    "ejemplo": "10 km de trail con 500 m de desnivel positivo.",
+    "sinonimos": ["Carrera de montaña"],
+    "imagen_url": "logo.png",
+    "categoria": "Modalidad"
+  },
+  {
+    "id": 143,
+    "termino": "Asfalto",
+    "definicion_corta": "Superficie urbana para correr.",
+    "definicion_larga": "Suelo duro y uniforme; requiere calzado amortiguado para reducir impacto en articulaciones.",
+    "ejemplo": "Rodaje de 10 km en asfalto con zapatillas amortiguadas.",
+    "sinonimos": ["Pavimento"],
+    "imagen_url": "logo.png",
+    "categoria": "Superficie"
+  },
+  {
+    "id": 144,
+    "termino": "Cinta de correr",
+    "definicion_corta": "Máquina para correr en interior.",
+    "definicion_larga": "Permite entrenar con control de velocidad, inclinación y distancia; útil en invierno o entrenamientos específicos.",
+    "ejemplo": "Rodaje de 8 km en cinta ajustando inclinación al 1%.",
+    "sinonimos": ["Treadmill"],
+    "imagen_url": "logo.png",
+    "categoria": "Modalidad"
+  },
+  {
+    "id": 145,
+    "termino": "Calzado minimalista",
+    "definicion_corta": "Zapatillas con poca amortiguación.",
+    "definicion_larga": "Favorecen técnica natural, apoyo de antepié y fortalecimiento de pies; requieren adaptación gradual.",
+    "ejemplo": "Entrena con calzado minimalista 2 veces por semana.",
+    "sinonimos": ["Barefoot shoes", "Minimal shoes"],
+    "imagen_url": "logo.png",
+    "categoria": "Equipo"
+  },
+  {
+    "id": 146,
+    "termino": "Calzado amortiguado",
+    "definicion_corta": "Zapatillas con acolchado para proteger articulaciones.",
+    "definicion_larga": "Reducen impacto en rodilla y cadera, recomendadas para rodajes largos en asfalto y corredores con sobrepeso.",
+    "ejemplo": "Rodaje de 15 km en calzado amortiguado.",
+    "sinonimos": ["Cushioned shoes"],
+    "imagen_url": "logo.png",
+    "categoria": "Equipo"
+  },
+  {
+    "id": 147,
+    "termino": "Calzado de competición",
+    "definicion_corta": "Zapatillas ligeras para carrera rápida.",
+    "definicion_larga": "Reducen peso y mejoran velocidad, sacrificando algo de amortiguación; usadas en 5K, 10K y maratón competitiva.",
+    "ejemplo": "Corrió 10K con calzado de competición.",
+    "sinonimos": ["Racing shoes"],
+    "imagen_url": "logo.png",
+    "categoria": "Equipo"
+  },
+  {
+    "id": 148,
+    "termino": "Plantillas ortopédicas",
+    "definicion_corta": "Soportes internos para pies.",
+    "definicion_larga": "Corrigen pisada, apoyos y alivian dolor; personalizadas según biomecánica del corredor.",
+    "ejemplo": "Usa plantillas ortopédicas para corregir pronación excesiva.",
+    "sinonimos": ["Insoles", "Orthotics"],
+    "imagen_url": "logo.png",
+    "categoria": "Equipo"
+  },
+  {
+    "id": 149,
+    "termino": "Reloj GPS",
+    "definicion_corta": "Dispositivo para medir distancia y ritmo.",
+    "definicion_larga": "Permite controlar kilometraje, velocidad, cadencia, pulsaciones y mapas de recorrido; útil para planificación y seguimiento.",
+    "ejemplo": "Corrió 12 km registrando ritmo en reloj GPS.",
+    "sinonimos": ["GPS watch"],
+    "imagen_url": "logo.png",
+    "categoria": "Equipo"
+  },
+  {
+    "id": 150,
+    "termino": "Pulsómetro",
+    "definicion_corta": "Dispositivo que mide frecuencia cardíaca.",
+    "definicion_larga": "Se usa para entrenar en zonas cardíacas, controlar esfuerzo y recuperación; puede ser reloj o banda torácica.",
+    "ejemplo": "Entrenamiento en zona 2 usando pulsómetro.",
+    "sinonimos": ["Heart rate monitor", "HR monitor"],
+    "imagen_url": "logo.png",
+    "categoria": "Equipo"
+  },
+  {
+    "id": 151,
+    "termino": "Zapatillas mixtas",
+    "definicion_corta": "Calzado equilibrado entre amortiguación y ligereza.",
+    "definicion_larga": "Ofrecen algo de protección y comodidad, pero permiten velocidad y buena respuesta en competiciones de media distancia.",
+    "ejemplo": "Usó zapatillas mixtas para la media maratón.",
+    "sinonimos": ["Neutral racing shoes"],
+    "imagen_url": "logo.png",
+    "categoria": "Equipo"
+  },
+  {
+    "id": 152,
+    "termino": "Zapatillas de trail",
+    "definicion_corta": "Calzado específico para terrenos irregulares.",
+    "definicion_larga": "Incluye suela adherente y refuerzos para proteger pie y tobillo; diseñadas para montaña y senderos.",
+    "ejemplo": "Corrió 10 km de trail con zapatillas de trail con tacos profundos.",
+    "sinonimos": ["Trail shoes"],
+    "imagen_url": "logo.png",
+    "categoria": "Equipo"
+  },
+  {
+    "id": 153,
+    "termino": "Calcetines técnicos",
+    "definicion_corta": "Calcetines diseñados para running.",
+    "definicion_larga": "Reducen rozaduras, absorben sudor y protegen la piel; algunos tienen compresión ligera.",
+    "ejemplo": "Usó calcetines técnicos para evitar ampollas en maratón.",
+    "sinonimos": ["Running socks"],
+    "imagen_url": "logo.png",
+    "categoria": "Equipo"
+  },
+  {
+    "id": 154,
+    "termino": "Cinturón de hidratación",
+    "definicion_corta": "Accesorio para llevar agua y geles.",
+    "definicion_larga": "Permite hidratarse y acceder a suplementos sin detenerse; útil en largas distancias o trail.",
+    "ejemplo": "Llevó cinturón de hidratación en carrera de montaña de 25 km.",
+    "sinonimos": ["Hydration belt", "Running belt"],
+    "imagen_url": "logo.png",
+    "categoria": "Equipo"
+  },
+  {
+    "id": 155,
+    "termino": "Mochila de hidratación",
+    "definicion_corta": "Mochila ligera con reservorio de agua.",
+    "definicion_larga": "Diseñada para trail y ultra distancia, permite beber mientras corres y almacenar geles, snacks o ropa ligera.",
+    "ejemplo": "Corrió 50 km de trail con mochila de hidratación de 2 litros.",
+    "sinonimos": ["Hydration pack"],
+    "imagen_url": "logo.png",
+    "categoria": "Equipo"
+  },
+  {
+    "id": 156,
+    "termino": "Geles energéticos",
+    "definicion_corta": "Suplemento en forma de gel para obtener energía rápida.",
+    "definicion_larga": "Contienen carbohidratos fácilmente absorbibles, electrolitos y a veces cafeína; se usan en competiciones o entrenamientos largos.",
+    "ejemplo": "Tomó un gel cada 45 minutos en la media maratón.",
+    "sinonimos": ["Energy gel"],
+    "imagen_url": "logo.png",
+    "categoria": "Nutrición"
+  },
+  {
+    "id": 157,
+    "termino": "Bebida isotónica",
+    "definicion_corta": "Líquido con sales y carbohidratos.",
+    "definicion_larga": "Reemplaza electrolitos perdidos con sudor y aporta energía; previene deshidratación y calambres.",
+    "ejemplo": "Bebió isotónica durante la carrera de 10 km.",
+    "sinonimos": ["Sports drink", "Electrolyte drink"],
+    "imagen_url": "logo.png",
+    "categoria": "Nutrición"
+  },
+  {
+    "id": 158,
+    "termino": "Hidratación previa",
+    "definicion_corta": "Consumo de líquidos antes de entrenar o competir.",
+    "definicion_larga": "Garantiza niveles óptimos de agua y electrolitos para prevenir fatiga y deshidratación durante la actividad.",
+    "ejemplo": "Tomó 500 ml de agua 1 hora antes del rodaje.",
+    "sinonimos": ["Pre-hydration"],
+    "imagen_url": "logo.png",
+    "categoria": "Nutrición"
+  },
+  {
+    "id": 159,
+    "termino": "Recuperación hídrica",
+    "definicion_corta": "Reposición de líquidos después de entrenar.",
+    "definicion_larga": "Incluye agua, bebidas isotónicas y alimentos ricos en agua y electrolitos para restituir pérdidas.",
+    "ejemplo": "Bebió 750 ml de isotónica tras 15 km de rodaje.",
+    "sinonimos": ["Post-run hydration"],
+    "imagen_url": "logo.png",
+    "categoria": "Recuperación"
+  },
+  {
+    "id": 160,
+    "termino": "Carga de carbohidratos",
+    "definicion_corta": "Aumento de ingesta de carbohidratos antes de competición.",
+    "definicion_larga": "Se realiza 2–3 días antes de la carrera para aumentar reservas de glucógeno y retrasar fatiga.",
+    "ejemplo": "Realizó carga de carbohidratos antes de la maratón.",
+    "sinonimos": ["Carb loading"],
+    "imagen_url": "logo.png",
+    "categoria": "Nutrición"
+  },
+  {
+    "id": 161,
+    "termino": "Glucógeno muscular",
+    "definicion_corta": "Almacenamiento de carbohidratos en músculos.",
+    "definicion_larga": "Fuente principal de energía en esfuerzos prolongados; se agota en carreras largas sin suplementación.",
+    "ejemplo": "La maratón agotó sus reservas de glucógeno muscular.",
+    "sinonimos": ["Muscle glycogen"],
+    "imagen_url": "logo.png",
+    "categoria": "Nutrición"
+  },
+  {
+    "id": 162,
+    "termino": "Proteínas",
+    "definicion_corta": "Macronutriente esencial para recuperación muscular.",
+    "definicion_larga": "Favorece reparación de fibras y adaptación al entrenamiento; importante post entrenamientos intensos.",
+    "ejemplo": "Consumió batido de proteínas tras entrenamiento de fuerza.",
+    "sinonimos": ["Protein"],
+    "imagen_url": "logo.png",
+    "categoria": "Nutrición"
+  },
+  {
+    "id": 163,
+    "termino": "Grasas saludables",
+    "definicion_corta": "Lípidos que aportan energía y benefician salud.",
+    "definicion_larga": "Incluyen omega-3 y monoinsaturadas; usadas en esfuerzos prolongados y para funciones celulares.",
+    "ejemplo": "Incluyó frutos secos para obtener grasas saludables.",
+    "sinonimos": ["Healthy fats"],
+    "imagen_url": "logo.png",
+    "categoria": "Nutrición"
+  },
+  {
+    "id": 164,
+    "termino": "Micronutrientes",
+    "definicion_corta": "Vitaminas y minerales esenciales.",
+    "definicion_larga": "Participan en metabolismo, recuperación y función muscular; déficit puede afectar rendimiento.",
+    "ejemplo": "Tomó suplemento de hierro para evitar anemia.",
+    "sinonimos": ["Vitamins and minerals"],
+    "imagen_url": "logo.png",
+    "categoria": "Nutrición"
+  },
+  {
+    "id": 165,
+    "termino": "Recuperación activa",
+    "definicion_corta": "Ejercicio suave tras entrenamiento intenso.",
+    "definicion_larga": "Favorece circulación y eliminación de lactato, acelerando recuperación sin generar fatiga adicional.",
+    "ejemplo": "Hizo 20 minutos de carrera suave tras serie intensa.",
+    "sinonimos": ["Active recovery"],
+    "imagen_url": "logo.png",
+    "categoria": "Recuperación"
+  },
+  {
+    "id": 166,
+    "termino": "Recuperación pasiva",
+    "definicion_corta": "Descanso total tras esfuerzo.",
+    "definicion_larga": "Permite reparación muscular y recuperación de sistema nervioso; incluye sueño, relajación y reposo completo.",
+    "ejemplo": "Durmió 8 horas para recuperación pasiva tras carrera larga.",
+    "sinonimos": ["Passive recovery"],
+    "imagen_url": "logo.png",
+    "categoria": "Recuperación"
+  },
+  {
+    "id": 167,
+    "termino": "Estiramientos dinámicos",
+    "definicion_corta": "Movimientos controlados para preparar músculos.",
+    "definicion_larga": "Se realizan antes del ejercicio para aumentar temperatura, movilidad y reducir riesgo de lesión.",
+    "ejemplo": "Estiramientos dinámicos de piernas antes de rodaje.",
+    "sinonimos": ["Dynamic stretches"],
+    "imagen_url": "logo.png",
+    "categoria": "Recuperación"
+  },
+  {
+    "id": 168,
+    "termino": "Estiramientos estáticos",
+    "definicion_corta": "Mantener músculo estirado durante tiempo.",
+    "definicion_larga": "Favorece flexibilidad y relajación muscular; recomendados tras entrenamiento.",
+    "ejemplo": "Estiramientos estáticos de isquios y gemelos tras carrera.",
+    "sinonimos": ["Static stretches"],
+    "imagen_url": "logo.png",
+    "categoria": "Recuperación"
+  },
+  {
+    "id": 169,
+    "termino": "Masaje deportivo",
+    "definicion_corta": "Manipulación de músculos para recuperación.",
+    "definicion_larga": "Alivia tensión, mejora circulación y acelera recuperación; puede ser manual o con rodillo.",
+    "ejemplo": "Usó rodillo para masaje deportivo tras rodaje largo.",
+    "sinonimos": ["Sports massage"],
+    "imagen_url": "logo.png",
+    "categoria": "Recuperación"
+  },
+  {
+    "id": 170,
+    "termino": "Crioterapia",
+    "definicion_corta": "Aplicación de frío para recuperación.",
+    "definicion_larga": "Reduce inflamación, dolor y fatiga post entrenamiento; incluye baños de hielo o compresas frías.",
+    "ejemplo": "Realizó crioterapia tras sesión intensa de series.",
+    "sinonimos": ["Cryotherapy", "Cold therapy"],
+    "imagen_url": "logo.png",
+    "categoria": "Recuperación"
+  },
+  {
+    "id": 171,
+    "termino": "Termoterapia",
+    "definicion_corta": "Uso de calor para recuperación muscular.",
+    "definicion_larga": "Favorece circulación, relajación y recuperación de músculos tensos; incluye sauna, baños calientes o compresas.",
+    "ejemplo": "Usó termoterapia tras sesión de fuerza.",
+    "sinonimos": ["Thermotherapy", "Heat therapy"],
+    "imagen_url": "logo.png",
+    "categoria": "Recuperación"
+  },
+  {
+    "id": 172,
+    "termino": "Sueño reparador",
+    "definicion_corta": "Dormir suficiente y profundo para recuperación.",
+    "definicion_larga": "Durante el sueño se reparan fibras musculares, se regula sistema hormonal y se mejora rendimiento físico y mental.",
+    "ejemplo": "Dormir 8 horas favorece recuperación y adaptación al entrenamiento.",
+    "sinonimos": ["Restorative sleep"],
+    "imagen_url": "logo.png",
+    "categoria": "Recuperación"
+  },
+  {
+    "id": 173,
+    "termino": "Fatiga muscular",
+    "definicion_corta": "Disminución temporal de fuerza y rendimiento.",
+    "definicion_larga": "Se produce por esfuerzo intenso o prolongado; recuperación adecuada permite evitar sobreentrenamiento.",
+    "ejemplo": "Sintió fatiga muscular tras 20 km a ritmo alto.",
+    "sinonimos": ["Muscle fatigue"],
+    "imagen_url": "logo.png",
+    "categoria": "Recuperación"
+  },
+  {
+    "id": 174,
+    "termino": "Sobrecarga crónica",
+    "definicion_corta": "Exceso de entrenamiento sin recuperación.",
+    "definicion_larga": "Provoca disminución de rendimiento, dolor persistente y riesgo de lesiones; requiere descanso y ajuste de carga.",
+    "ejemplo": "Experimentó sobrecarga crónica tras entrenar sin descanso.",
+    "sinonimos": ["Chronic overload", "Overtraining"],
+    "imagen_url": "logo.png",
+    "categoria": "Recuperación"
+  },
+  {
+    "id": 175,
+    "termino": "Lesión por sobreuso",
+    "definicion_corta": "Daño muscular o articular por repetición.",
+    "definicion_larga": "Se produce al someter tejidos a estrés constante sin suficiente recuperación; incluye tendinitis, periostitis o fascitis plantar.",
+    "ejemplo": "Sufrió lesión por sobreuso en la rodilla tras aumentar kilometraje rápidamente.",
+    "sinonimos": ["Overuse injury"],
+    "imagen_url": "logo.png",
+    "categoria": "Recuperación"
+  },
+  {
+    "id": 176,
+    "termino": "Fascitis plantar",
+    "definicion_corta": "Inflamación de la fascia del pie.",
+    "definicion_larga": "Provoca dolor en el talón o arco del pie, generalmente por sobrecarga o calzado inadecuado; requiere estiramiento y fortalecimiento.",
+    "ejemplo": "Tuvo que descansar una semana por fascitis plantar.",
+    "sinonimos": ["Plantar fasciitis"],
+    "imagen_url": "logo.png",
+    "categoria": "Lesiones"
+  },
+  {
+    "id": 177,
+    "termino": "Tendinitis Aquiles",
+    "definicion_corta": "Inflamación del tendón de Aquiles.",
+    "definicion_larga": "Se produce por exceso de impacto o aumento brusco de entrenamiento; dolor en talón y parte posterior de la pierna.",
+    "ejemplo": "Redujo kilometraje por tendinitis Aquiles.",
+    "sinonimos": ["Achilles tendinitis"],
+    "imagen_url": "logo.png",
+    "categoria": "Lesiones"
+  },
+  {
+    "id": 178,
+    "termino": "Esguince de tobillo",
+    "definicion_corta": "Lesión de ligamentos del tobillo.",
+    "definicion_larga": "Suele ocurrir al torcer el pie; puede variar de leve a grave; requiere reposo, hielo y ejercicios de recuperación.",
+    "ejemplo": "Suspendió entrenamientos tras esguince de tobillo grado I.",
+    "sinonimos": ["Ankle sprain"],
+    "imagen_url": "logo.png",
+    "categoria": "Lesiones"
+  },
+  {
+    "id": 179,
+    "termino": "Periostitis tibial",
+    "definicion_corta": "Dolor en la tibia por sobrecarga.",
+    "definicion_larga": "Inflamación del periostio de la tibia; común en corredores que aumentan kilometraje demasiado rápido o corren en superficies duras.",
+    "ejemplo": "Sufrió periostitis tibial tras rodaje largo en asfalto.",
+    "sinonimos": ["Shin splints"],
+    "imagen_url": "logo.png",
+    "categoria": "Lesiones"
+  },
+  {
+    "id": 180,
+    "termino": "Condromalacia rotuliana",
+    "definicion_corta": "Desgaste del cartílago de la rodilla.",
+    "definicion_larga": "Provoca dolor al flexionar o subir escaleras; frecuente en corredores con desalineación de rodilla o sobrecarga.",
+    "ejemplo": "Tratamiento de condromalacia rotuliana incluyó fisioterapia y fortalecimiento.",
+    "sinonimos": ["Chondromalacia patellae"],
+    "imagen_url": "logo.png",
+    "categoria": "Lesiones"
+  },
+  {
+    "id": 181,
+    "termino": "Dolor lumbar",
+    "definicion_corta": "Molestia en la zona baja de la espalda.",
+    "definicion_larga": "Puede ser por debilidad de core, técnica incorrecta o superficies duras; se alivia con fortalecimiento y estiramientos.",
+    "ejemplo": "Reducir peso y mejorar postura ayudó a disminuir dolor lumbar.",
+    "sinonimos": ["Low back pain"],
+    "imagen_url": "logo.png",
+    "categoria": "Lesiones"
+  },
+  {
+    "id": 182,
+    "termino": "Síndrome de la cintilla iliotibial",
+    "definicion_corta": "Inflamación de banda lateral de la rodilla.",
+    "definicion_larga": "Dolor lateral por fricción repetida; común en corredores de largas distancias; requiere estiramiento y fortalecimiento de glúteos.",
+    "ejemplo": "Paró 1 semana por síndrome de la cintilla iliotibial.",
+    "sinonimos": ["IT band syndrome"],
+    "imagen_url": "logo.png",
+    "categoria": "Lesiones"
+  },
+  {
+    "id": 183,
+    "termino": "Calambres musculares",
+    "definicion_corta": "Contracciones involuntarias y dolorosas.",
+    "definicion_larga": "Suelen aparecer por deshidratación, fatiga o déficit de minerales; se alivian con estiramiento y reposo.",
+    "ejemplo": "Tuvo calambres musculares en el último km de la carrera.",
+    "sinonimos": ["Muscle cramps"],
+    "imagen_url": "logo.png",
+    "categoria": "Lesiones"
+  },
+  {
+    "id": 184,
+    "termino": "Sobrecarga cervical",
+    "definicion_corta": "Tensión en cuello y hombros.",
+    "definicion_larga": "Puede derivar de mala postura al correr o exceso de entrenamiento; se alivia con estiramientos y masajes.",
+    "ejemplo": "Estiramientos diarios ayudaron a reducir sobrecarga cervical.",
+    "sinonimos": ["Neck strain"],
+    "imagen_url": "logo.png",
+    "categoria": "Lesiones"
+  },
+  {
+    "id": 185,
+    "termino": "Lesión isquiotibiales",
+    "definicion_corta": "Desgarro o distensión de la parte posterior del muslo.",
+    "definicion_larga": "Común en sprints o cambios bruscos de ritmo; requiere reposo, fisioterapia y fortalecimiento gradual.",
+    "ejemplo": "Suspensión temporal de entrenamientos por lesión de isquiotibiales.",
+    "sinonimos": ["Hamstring injury"],
+    "imagen_url": "logo.png",
+    "categoria": "Lesiones"
+  },
+  {
+    "id": 186,
+    "termino": "Esguince de rodilla",
+    "definicion_corta": "Lesión de ligamentos de la rodilla.",
+    "definicion_larga": "Provocado por torsión o impacto; grados I a III; requiere reposo, fisioterapia y a veces inmovilización.",
+    "ejemplo": "Recuperó movilidad tras esguince de rodilla grado II.",
+    "sinonimos": ["Knee sprain"],
+    "imagen_url": "logo.png",
+    "categoria": "Lesiones"
+  },
+  {
+    "id": 187,
+    "termino": "Fascia lata",
+    "definicion_corta": "Capa de tejido que envuelve el muslo.",
+    "definicion_larga": "Su inflamación o rigidez afecta la rodilla y cadera; fortalecimiento y estiramiento son clave para prevenir lesiones.",
+    "ejemplo": "Trabajó fascia lata para evitar molestias en rodilla.",
+    "sinonimos": ["Iliotibial band"],
+    "imagen_url": "logo.png",
+    "categoria": "Lesiones"
+  },
+  {
+    "id": 188,
+    "termino": "Rotura fibrilar",
+    "definicion_corta": "Desgarro parcial de fibras musculares.",
+    "definicion_larga": "Se produce por sobrecarga; provoca dolor localizado y limitación funcional; requiere reposo y fisioterapia.",
+    "ejemplo": "Paró entrenamientos 2 semanas por rotura fibrilar.",
+    "sinonimos": ["Muscle fiber tear"],
+    "imagen_url": "logo.png",
+    "categoria": "Lesiones"
+  },
+  {
+    "id": 189,
+    "termino": "Dolor patelar",
+    "definicion_corta": "Molestia en la rótula de la rodilla.",
+    "definicion_larga": "Causado por sobreuso, debilidad muscular o mala alineación; tratamiento incluye fortalecimiento y estiramientos.",
+    "ejemplo": "Fortaleció cuádriceps para disminuir dolor patelar.",
+    "sinonimos": ["Patellar pain", "Runner's knee"],
+    "imagen_url": "logo.png",
+    "categoria": "Lesiones"
+  },
+  {
+    "id": 190,
+    "termino": "Desgarro muscular",
+    "definicion_corta": "Rotura parcial o total de fibras musculares.",
+    "definicion_larga": "Suele producirse por sobrecarga o contracción brusca; provoca dolor intenso e inflamación, requiere reposo y rehabilitación.",
+    "ejemplo": "Interrumpió entrenamientos por desgarro muscular en gemelo.",
+    "sinonimos": ["Muscle tear"],
+    "imagen_url": "logo.png",
+    "categoria": "Lesiones"
+  },
+  {
+    "id": 191,
+    "termino": "Condromalacia femoral",
+    "definicion_corta": "Desgaste del cartílago del fémur.",
+    "definicion_larga": "Produce dolor anterior de rodilla; común en corredores con desequilibrio muscular o sobreuso.",
+    "ejemplo": "Fisioterapia ayudó a controlar condromalacia femoral.",
+    "sinonimos": ["Femoral chondromalacia"],
+    "imagen_url": "logo.png",
+    "categoria": "Lesiones"
+  },
+  {
+    "id": 192,
+    "termino": "Tendinitis rotuliana",
+    "definicion_corta": "Inflamación del tendón de la rótula.",
+    "definicion_larga": "Conocida como rodilla del saltador; dolor anterior que se agrava con saltos o carreras; requiere reposo y fortalecimiento.",
+    "ejemplo": "Redujo impacto y fortaleció cuádriceps por tendinitis rotuliana.",
+    "sinonimos": ["Patellar tendinitis"],
+    "imagen_url": "logo.png",
+    "categoria": "Lesiones"
+  },
+  {
+    "id": 193,
+    "termino": "Fractura por estrés",
+    "definicion_corta": "Microfracturas por sobrecarga repetitiva.",
+    "definicion_larga": "Común en tibia, metatarsos o fémur; provoca dolor progresivo, requiere descanso y control médico.",
+    "ejemplo": "Detuvo entrenamientos por fractura por estrés en tibia.",
+    "sinonimos": ["Stress fracture"],
+    "imagen_url": "logo.png",
+    "categoria": "Lesiones"
+  },
+  {
+    "id": 194,
+    "termino": "Lesión meniscal",
+    "definicion_corta": "Daño al cartílago de la rodilla.",
+    "definicion_larga": "Provoca dolor, inflamación y bloqueo articular; requiere fisioterapia o intervención quirúrgica según gravedad.",
+    "ejemplo": "Recuperó movilidad tras lesión meniscal parcial.",
+    "sinonimos": ["Meniscus injury"],
+    "imagen_url": "logo.png",
+    "categoria": "Lesiones"
+  },
+  {
+    "id": 195,
+    "termino": "Bursitis",
+    "definicion_corta": "Inflamación de bolsa sinovial.",
+    "definicion_larga": "Dolor y limitación de movilidad en articulaciones; común en cadera, rodilla o hombro de corredores.",
+    "ejemplo": "Tratamiento con hielo y reposo para bursitis de cadera.",
+    "sinonimos": ["Bursitis inflammation"],
+    "imagen_url": "logo.png",
+    "categoria": "Lesiones"
+  },
+  {
+    "id": 196,
+    "termino": "Tendinopatía",
+    "definicion_corta": "Alteración crónica del tendón.",
+    "definicion_larga": "Incluye degeneración, dolor y limitación funcional; requiere fisioterapia, fortalecimiento y a veces PRP.",
+    "ejemplo": "Fisioterapia para tendinopatía de Aquiles.",
+    "sinonimos": ["Tendon disorder"],
+    "imagen_url": "logo.png",
+    "categoria": "Lesiones"
+  },
+  {
+    "id": 197,
+    "termino": "Inflamación muscular",
+    "definicion_corta": "Reacción del músculo a sobrecarga.",
+    "definicion_larga": "Causa dolor y rigidez temporal; se trata con descanso, hielo y estiramientos suaves.",
+    "ejemplo": "Experimentó inflamación muscular tras series intensas.",
+    "sinonimos": ["Muscle inflammation"],
+    "imagen_url": "logo.png",
+    "categoria": "Lesiones"
+  },
+  {
+    "id": 198,
+    "termino": "Neuropatía por compresión",
+    "definicion_corta": "Compresión nerviosa que provoca dolor o hormigueo.",
+    "definicion_larga": "Puede afectar tobillo, pie o pierna; común por calzado ajustado o sobrecarga; requiere descanso y corrección postural.",
+    "ejemplo": "Redujo kilometraje por neuropatía por compresión en pie.",
+    "sinonimos": ["Compression neuropathy"],
+    "imagen_url": "logo.png",
+    "categoria": "Lesiones"
+  },
+  {
+    "id": 199,
+    "termino": "Inflamación de tendones flexores",
+    "definicion_corta": "Irritación de tendones que flexionan articulaciones.",
+    "definicion_larga": "Provoca dolor al mover dedos, pies o manos; frecuente en corredores por sobreuso; requiere fisioterapia y reposo.",
+    "ejemplo": "Descansó por inflamación de tendones flexores del pie.",
+    "sinonimos": ["Flexor tendinitis"],
+    "imagen_url": "logo.png",
+    "categoria": "Lesiones"
+  },
+  {
+    "id": 200,
+    "termino": "Dolor de cadera",
+    "definicion_corta": "Molestia en articulación o musculatura de cadera.",
+    "definicion_larga": "Puede derivar de sobrecarga, desequilibrio muscular o técnica incorrecta; tratamiento incluye estiramientos, fortalecimiento y reposo.",
+    "ejemplo": "Fortalecimiento de glúteos redujo dolor de cadera.",
+    "sinonimos": ["Hip pain"],
+    "imagen_url": "logo.png",
+    "categoria": "Lesiones"
+  },
+  {
+    "id": 201,
+    "termino": "Dolor en abductores",
+    "definicion_corta": "Molestia en músculos laterales de cadera.",
+    "definicion_larga": "Suele aparecer por sobrecarga o debilidad; afecta estabilidad de la carrera; requiere fortalecimiento y estiramientos.",
+    "ejemplo": "Fortaleció abductores tras molestias en rodilla lateral.",
+    "sinonimos": ["Abductor pain"],
+    "imagen_url": "logo.png",
+    "categoria": "Lesiones"
+  },
+  {
+    "id": 202,
+    "termino": "Lesión del sóleo",
+    "definicion_corta": "Distensión de músculo de la pantorrilla.",
+    "definicion_larga": "Provoca dolor al correr o subir escaleras; frecuente en cambios de ritmo o superficies irregulares; requiere reposo y fisioterapia.",
+    "ejemplo": "Detuvo entrenamientos por lesión del sóleo tras sprint largo.",
+    "sinonimos": ["Soleus injury"],
+    "imagen_url": "logo.png",
+    "categoria": "Lesiones"
+  },
+  {
+    "id": 203,
+    "termino": "Rotura del gemelo",
+    "definicion_corta": "Desgarro en músculo de la pantorrilla.",
+    "definicion_larga": "Dolor agudo y limitación de movilidad; común en sprints; requiere inmovilización y recuperación gradual.",
+    "ejemplo": "Paró tres semanas por rotura del gemelo.",
+    "sinonimos": ["Calf tear"],
+    "imagen_url": "logo.png",
+    "categoria": "Lesiones"
+  },
+  {
+    "id": 204,
+    "termino": "Tendinitis del glúteo medio",
+    "definicion_corta": "Inflamación del tendón del glúteo medio.",
+    "definicion_larga": "Produce dolor lateral de cadera, dificultad al correr; se corrige con fortalecimiento de cadera y fisioterapia.",
+    "ejemplo": "Tratamiento con bandas elásticas por tendinitis del glúteo medio.",
+    "sinonimos": ["Gluteus medius tendinitis"],
+    "imagen_url": "logo.png",
+    "categoria": "Lesiones"
+  },
+  {
+    "id": 205,
+    "termino": "Neuroma de Morton",
+    "definicion_corta": "Engrosamiento de nervio entre metatarsos.",
+    "definicion_larga": "Causa dolor y hormigueo en antepié; común por calzado estrecho o impacto repetitivo; requiere cambio de calzado y fisioterapia.",
+    "ejemplo": "Redujo kilometraje por neuroma de Morton.",
+    "sinonimos": ["Morton's neuroma"],
+    "imagen_url": "logo.png",
+    "categoria": "Lesiones"
+  },
+  {
+    "id": 206,
+    "termino": "Hiperpronación",
+    "definicion_corta": "Exceso de rotación interna del pie al correr.",
+    "definicion_larga": "Aumenta riesgo de lesiones en rodilla y tobillo; se corrige con calzado adecuado o plantillas.",
+    "ejemplo": "Usó plantillas para corregir hiperpronación.",
+    "sinonimos": ["Overpronation"],
+    "imagen_url": "logo.png",
+    "categoria": "Biomecánica"
+  },
+  {
+    "id": 207,
+    "termino": "Supinación",
+    "definicion_corta": "Rotación externa del pie al correr.",
+    "definicion_larga": "Provoca carga excesiva en borde externo del pie; puede generar lesiones; se corrige con calzado o técnica de carrera.",
+    "ejemplo": "Corrige supinación con ejercicios de estabilidad.",
+    "sinonimos": ["Underpronation"],
+    "imagen_url": "logo.png",
+    "categoria": "Biomecánica"
+  },
+  {
+    "id": 208,
+    "termino": "Cadencia de carrera",
+    "definicion_corta": "Número de pasos por minuto.",
+    "definicion_larga": "Cadencia óptima mejora eficiencia y reduce riesgo de lesiones; suele estar entre 170–190 ppm en corredores populares.",
+    "ejemplo": "Aumentó cadencia para reducir impacto en rodilla.",
+    "sinonimos": ["Step rate"],
+    "imagen_url": "logo.png",
+    "categoria": "Técnica"
+  },
+  {
+    "id": 209,
+    "termino": "Longitud de zancada",
+    "definicion_corta": "Distancia cubierta por cada paso.",
+    "definicion_larga": "Zancada demasiado larga aumenta riesgo de lesiones; ajustarla mejora economía de carrera.",
+    "ejemplo": "Acortó longitud de zancada para mayor eficiencia.",
+    "sinonimos": ["Stride length"],
+    "imagen_url": "logo.png",
+    "categoria": "Técnica"
+  },
+  {
+    "id": 210,
+    "termino": "Tiempo de contacto",
+    "definicion_corta": "Duración del pie en suelo por paso.",
+    "definicion_larga": "Reducir tiempo de contacto mejora velocidad y eficiencia; monitorizable con sensores o relojes GPS.",
+    "ejemplo": "Analizó tiempo de contacto para optimizar técnica.",
+    "sinonimos": ["Ground contact time"],
+    "imagen_url": "logo.png",
+    "categoria": "Técnica"
+  },
+  {
+    "id": 211,
+    "termino": "Elevación de rodilla",
+    "definicion_corta": "Altura que alcanza la rodilla al correr.",
+    "definicion_larga": "Influye en la potencia y economía; excesiva o insuficiente puede afectar técnica y eficiencia.",
+    "ejemplo": "Mejoró elevación de rodilla en series de sprint.",
+    "sinonimos": ["Knee lift"],
+    "imagen_url": "logo.png",
+    "categoria": "Técnica"
+  },
+  {
+    "id": 212,
+    "termino": "Zancada eficiente",
+    "definicion_corta": "Equilibrio entre cadencia y longitud de zancada.",
+    "definicion_larga": "Optimiza velocidad y reduce impacto; clave para corredores de fondo y medio fondo.",
+    "ejemplo": "Logró zancada eficiente en la media maratón.",
+    "sinonimos": ["Efficient stride"],
+    "imagen_url": "logo.png",
+    "categoria": "Técnica"
+  },
+  {
+    "id": 213,
+    "termino": "Propulsión",
+    "definicion_corta": "Fuerza aplicada para avanzar al correr.",
+    "definicion_larga": "Mejora velocidad y potencia; depende de fuerza de piernas y técnica de empuje.",
+    "ejemplo": "Ejercicios pliométricos aumentaron propulsión en sprints.",
+    "sinonimos": ["Push-off", "Thrust"],
+    "imagen_url": "logo.png",
+    "categoria": "Técnica"
+  },
+  {
+    "id": 214,
+    "termino": "Aterrizaje de pie",
+    "definicion_corta": "Zona del pie que contacta primero el suelo.",
+    "definicion_larga": "Puede ser antepié, mediopie o retropié; influye en eficiencia y riesgo de lesiones.",
+    "ejemplo": "Entrenó aterrizaje de mediopie para reducir impacto.",
+    "sinonimos": ["Foot strike"],
+    "imagen_url": "logo.png",
+    "categoria": "Técnica"
+  },
+  {
+    "id": 215,
+    "termino": "Balanceo de brazos",
+    "definicion_corta": "Movimiento coordinado de brazos al correr.",
+    "definicion_larga": "Ayuda a mantener ritmo, estabilidad y eficiencia; exceso o desequilibrio puede afectar postura.",
+    "ejemplo": "Mejoró balanceo de brazos para mantener cadencia constante.",
+    "sinonimos": ["Arm swing"],
+    "imagen_url": "logo.png",
+    "categoria": "Técnica"
+  },
+  {
+    "id": 216,
+    "termino": "Rotación de tronco",
+    "definicion_corta": "Giro del torso durante la carrera.",
+    "definicion_larga": "Ayuda a propulsión y coordinación; controlarla evita pérdidas de energía y lesiones en espalda.",
+    "ejemplo": "Controló rotación de tronco en sprints largos.",
+    "sinonimos": ["Torso rotation"],
+    "imagen_url": "logo.png",
+    "categoria": "Técnica"
+  },
+  {
+    "id": 217,
+    "termino": "Fuerza de empuje",
+    "definicion_corta": "Potencia aplicada al final de cada zancada.",
+    "definicion_larga": "Mejora velocidad y economía; se trabaja con ejercicios pliométricos y pesas.",
+    "ejemplo": "Incrementó fuerza de empuje en entrenamientos de escaleras.",
+    "sinonimos": ["Push strength"],
+    "imagen_url": "logo.png",
+    "categoria": "Técnica"
+  },
+  {
+    "id": 218,
+    "termino": "Economía de carrera",
+    "definicion_corta": "Energía utilizada a determinada velocidad.",
+    "definicion_larga": "Menor gasto energético a un ritmo dado indica mayor eficiencia; depende de técnica, fuerza y acondicionamiento.",
+    "ejemplo": "Mejoró economía de carrera tras ajustar técnica de zancada.",
+    "sinonimos": ["Running economy"],
+    "imagen_url": "logo.png",
+    "categoria": "Técnica"
+  },
+  {
+    "id": 219,
+    "termino": "Entrenamiento de series",
+    "definicion_corta": "Trabajo en intervalos de alta intensidad.",
+    "definicion_larga": "Mejora velocidad, potencia y capacidad anaeróbica; combina esfuerzo máximo con recuperación parcial.",
+    "ejemplo": "Hizo series de 400 m para mejorar velocidad.",
+    "sinonimos": ["Interval training", "Repetitions"],
+    "imagen_url": "logo.png",
+    "categoria": "Entrenamiento"
+  },
+  {
+    "id": 220,
+    "termino": "Fartlek",
+    "definicion_corta": "Entrenamiento con cambios de ritmo.",
+    "definicion_larga": "Alterna ritmos rápidos y suaves sin distancias fijas; mejora velocidad y resistencia aeróbica.",
+    "ejemplo": "Corrió 8 km con fartlek de sprints y trote suave.",
+    "sinonimos": ["Speed play"],
+    "imagen_url": "logo.png",
+    "categoria": "Entrenamiento"
+  },
+  {
+    "id": 221,
+    "termino": "Rodaje largo",
+    "definicion_corta": "Carrera continua a ritmo moderado y larga distancia.",
+    "definicion_larga": "Se realiza para mejorar resistencia aeróbica y capacidad cardiovascular; base fundamental de entrenamiento de fondo.",
+    "ejemplo": "Rodaje largo de 18 km a ritmo cómodo.",
+    "sinonimos": ["Long run"],
+    "imagen_url": "logo.png",
+    "categoria": "Entrenamiento"
+  },
+  {
+    "id": 222,
+    "termino": "Rodaje suave",
+    "definicion_corta": "Carrera a ritmo cómodo para recuperación.",
+    "definicion_larga": "Favorece recuperación activa, circulación y adaptación sin generar fatiga excesiva.",
+    "ejemplo": "Hizo rodaje suave de 5 km tras series intensas.",
+    "sinonimos": ["Easy run", "Recovery run"],
+    "imagen_url": "logo.png",
+    "categoria": "Entrenamiento"
+  },
+  {
+    "id": 223,
+    "termino": "Entrenamiento cruzado",
+    "definicion_corta": "Actividades diferentes a correr.",
+    "definicion_larga": "Incluye bici, natación o fuerza; mejora condición física y reduce riesgo de lesiones por sobreuso.",
+    "ejemplo": "Incluyó natación como entrenamiento cruzado.",
+    "sinonimos": ["Cross training"],
+    "imagen_url": "logo.png",
+    "categoria": "Entrenamiento"
+  },
+  {
+    "id": 224,
+    "termino": "Entrenamiento de fuerza",
+    "definicion_corta": "Ejercicios para fortalecer músculos.",
+    "definicion_larga": "Mejora potencia, estabilidad y resistencia; clave para prevenir lesiones y mejorar economía de carrera.",
+    "ejemplo": "Entrenamiento de fuerza 2 veces por semana.",
+    "sinonimos": ["Strength training"],
+    "imagen_url": "logo.png",
+    "categoria": "Entrenamiento"
+  },
+  {
+    "id": 225,
+    "termino": "Entrenamiento pliométrico",
+    "definicion_corta": "Ejercicios de salto y explosividad.",
+    "definicion_larga": "Mejora potencia y propulsión; útil para sprints y cambios de ritmo; debe combinarse con fuerza y técnica.",
+    "ejemplo": "Incluyó pliometría para aumentar propulsión en carrera.",
+    "sinonimos": ["Plyometric training"],
+    "imagen_url": "logo.png",
+    "categoria": "Entrenamiento"
+  },
+  {
+    "id": 226,
+    "termino": "VO2 máx",
+    "definicion_corta": "Máxima capacidad de consumo de oxígeno.",
+    "definicion_larga": "Indica el rendimiento aeróbico del corredor; cuanto mayor, más eficiente es el cuerpo utilizando oxígeno.",
+    "ejemplo": "Entrenamientos de intervalos mejoraron su VO2 máx.",
+    "sinonimos": ["Capacidad aeróbica máxima"],
+    "imagen_url": "logo.png",
+    "categoria": "Fisiología"
+  },
+  {
+    "id": 227,
+    "termino": "Lactato",
+    "definicion_corta": "Producto de la fermentación anaeróbica.",
+    "definicion_larga": "Acumulación de lactato limita rendimiento; entrenamiento adecuado retrasa su aparición.",
+    "ejemplo": "Series de alta intensidad aumentan tolerancia al lactato.",
+    "sinonimos": ["Ácido láctico"],
+    "imagen_url": "logo.png",
+    "categoria": "Fisiología"
+  },
+  {
+    "id": 228,
+    "termino": "Umbral anaeróbico",
+    "definicion_corta": "Intensidad máxima antes de acumular lactato rápidamente.",
+    "definicion_larga": "Entrenar cerca de este umbral mejora resistencia y velocidad de carrera.",
+    "ejemplo": "Mejoró tiempo de media maratón entrenando en umbral anaeróbico.",
+    "sinonimos": ["Lactate threshold"],
+    "imagen_url": "logo.png",
+    "categoria": "Fisiología"
+  },
+  {
+    "id": 229,
+    "termino": "Hidratación",
+    "definicion_corta": "Mantener niveles adecuados de agua.",
+    "definicion_larga": "Esencial para rendimiento y recuperación; se pierde con sudor y debe reponerse antes, durante y después de entrenamientos.",
+    "ejemplo": "Bebió 500 ml de agua antes de la carrera.",
+    "sinonimos": ["Fluid intake"],
+    "imagen_url": "logo.png",
+    "categoria": "Nutrición"
+  },
+  {
+    "id": 230,
+    "termino": "Electrolitos",
+    "definicion_corta": "Minerales que regulan funciones corporales.",
+    "definicion_larga": "Sodio, potasio y magnesio ayudan a prevenir calambres y mantener equilibrio hídrico durante entrenamientos largos.",
+    "ejemplo": "Tomó bebida isotónica rica en electrolitos en el rodaje largo.",
+    "sinonimos": ["Minerales"],
+    "imagen_url": "logo.png",
+    "categoria": "Nutrición"
+  },
+  {
+    "id": 231,
+    "termino": "Carbo-loading",
+    "definicion_corta": "Aumento de carbohidratos antes de carrera.",
+    "definicion_larga": "Consiste en consumir mayor cantidad de carbohidratos 2–3 días antes de una carrera larga para maximizar reservas de glucógeno.",
+    "ejemplo": "Realizó carbo-loading antes del maratón.",
+    "sinonimos": ["Carga de carbohidratos"],
+    "imagen_url": "logo.png",
+    "categoria": "Suplementación"
+  },
+  {
+    "id": 232,
+    "termino": "Proteína en polvo",
+    "definicion_corta": "Suplemento para recuperación muscular.",
+    "definicion_larga": "Aporta aminoácidos esenciales; útil tras entrenamientos intensos para reparar fibras musculares.",
+    "ejemplo": "Tomó batido de proteína tras entrenamiento de fuerza.",
+    "sinonimos": ["Whey protein", "Suero de leche"],
+    "imagen_url": "logo.png",
+    "categoria": "Suplementación"
+  },
+  {
+    "id": 233,
+    "termino": "BCAA",
+    "definicion_corta": "Aminoácidos de cadena ramificada.",
+    "definicion_larga": "Leucina, isoleucina y valina ayudan a reducir fatiga, favorecer recuperación y prevenir catabolismo muscular.",
+    "ejemplo": "Consumió BCAA antes de la sesión intensa de sprints.",
+    "sinonimos": ["Branched-chain amino acids"],
+    "imagen_url": "logo.png",
+    "categoria": "Suplementación"
+  },
+  {
+    "id": 234,
+    "termino": "Creatina",
+    "definicion_corta": "Suplemento para fuerza y potencia.",
+    "definicion_larga": "Aumenta disponibilidad de ATP en esfuerzos cortos e intensos; útil en series, sprints y entrenamiento de fuerza.",
+    "ejemplo": "Tomó creatina para mejorar propulsión en series de velocidad.",
+    "sinonimos": ["Creatine monohydrate"],
+    "imagen_url": "logo.png",
+    "categoria": "Suplementación"
+  },
+  {
+    "id": 235,
+    "termino": "Cafeína",
+    "definicion_corta": "Estimulante natural que mejora rendimiento.",
+    "definicion_larga": "Aumenta concentración, reduce percepción de fatiga y mejora resistencia; se toma antes de entrenamientos o competición.",
+    "ejemplo": "Tomó café antes de la carrera para mejorar concentración y energía.",
+    "sinonimos": ["Caffeine"],
+    "imagen_url": "logo.png",
+    "categoria": "Suplementación"
+  },
+  {
+    "id": 236,
+    "termino": "Beta-alanina",
+    "definicion_corta": "Aminoácido que reduce fatiga muscular.",
+    "definicion_larga": "Incrementa concentración de carnosina en músculos, retrasando la acidosis y mejorando rendimiento en series y carreras de media intensidad.",
+    "ejemplo": "Tomó beta-alanina antes de sesiones de alta intensidad.",
+    "sinonimos": ["Carnosine precursor"],
+    "imagen_url": "logo.png",
+    "categoria": "Suplementación"
+  },
+  {
+    "id": 237,
+    "termino": "Glutamina",
+    "definicion_corta": "Aminoácido para recuperación y sistema inmune.",
+    "definicion_larga": "Ayuda a reparar tejidos y fortalecer defensas tras entrenamientos prolongados o intensos.",
+    "ejemplo": "Consumió glutamina después del rodaje largo para recuperación.",
+    "sinonimos": ["L-glutamine"],
+    "imagen_url": "logo.png",
+    "categoria": "Suplementación"
+  },
+  {
+    "id": 238,
+    "termino": "Hidratación con electrolitos",
+    "definicion_corta": "Reposición de agua y minerales durante carrera.",
+    "definicion_larga": "Previene deshidratación y calambres en entrenamientos y carreras largas; se usan bebidas isotónicas.",
+    "ejemplo": "Bebió bebida isotónica en el km 15 del maratón.",
+    "sinonimos": ["Electrolyte hydration"],
+    "imagen_url": "logo.png",
+    "categoria": "Suplementación"
+  },
+  {
+    "id": 239,
+    "termino": "Gel energético",
+    "definicion_corta": "Suplemento de carbohidratos de rápida absorción.",
+    "definicion_larga": "Aporta energía durante carreras largas o entrenamientos prolongados; se combina con hidratación.",
+    "ejemplo": "Tomó gel energético cada 45 minutos durante la maratón.",
+    "sinonimos": ["Energy gel"],
+    "imagen_url": "logo.png",
+    "categoria": "Suplementación"
+  },
+  {
+    "id": 240,
+    "termino": "Bebida isotónica",
+    "definicion_corta": "Líquido con concentración de sales similar a la sangre.",
+    "definicion_larga": "Favorece absorción rápida de agua y electrolitos, manteniendo equilibrio hídrico durante esfuerzo prolongado.",
+    "ejemplo": "Bebida isotónica durante carrera de fondo.",
+    "sinonimos": ["Sports drink"],
+    "imagen_url": "logo.png",
+    "categoria": "Suplementación"
+  },
+  {
+    "id": 241,
+    "termino": "Recuperación activa",
+    "definicion_corta": "Actividad ligera tras entrenamiento intenso.",
+    "definicion_larga": "Favorece circulación, oxigenación y eliminación de residuos metabólicos; incluye rodajes suaves o bicicleta ligera.",
+    "ejemplo": "Rodaje de 5 km como recuperación activa.",
+    "sinonimos": ["Active recovery"],
+    "imagen_url": "logo.png",
+    "categoria": "Recuperación"
+  },
+  {
+    "id": 242,
+    "termino": "Masaje deportivo",
+    "definicion_corta": "Técnica de masaje para corredores.",
+    "definicion_larga": "Ayuda a aliviar tensión muscular, mejorar circulación y prevenir lesiones; se realiza antes o después de entrenamientos intensos.",
+    "ejemplo": "Sesión de masaje deportivo tras rodaje largo.",
+    "sinonimos": ["Sports massage"],
+    "imagen_url": "logo.png",
+    "categoria": "Recuperación"
+  },
+  {
+    "id": 243,
+    "termino": "Foam roller",
+    "definicion_corta": "Rodillo de espuma para auto-masaje.",
+    "definicion_larga": "Permite liberar tensión muscular, mejorar elasticidad y prevenir lesiones mediante auto-masaje de fibras musculares.",
+    "ejemplo": "Usó foam roller tras series de alta intensidad.",
+    "sinonimos": ["Roller de espuma"],
+    "imagen_url": "logo.png",
+    "categoria": "Recuperación"
+  },
+  {
+    "id": 244,
+    "termino": "Estiramiento dinámico",
+    "definicion_corta": "Movimientos activos para preparar músculos.",
+    "definicion_larga": "Se realiza antes de correr para calentar y activar articulaciones; mejora rango de movimiento y reduce riesgo de lesiones.",
+    "ejemplo": "Realizó estiramiento dinámico antes del rodaje.",
+    "sinonimos": ["Dynamic stretching"],
+    "imagen_url": "logo.png",
+    "categoria": "Preparación"
+  },
+  {
+    "id": 245,
+    "termino": "Estiramiento estático",
+    "definicion_corta": "Mantenimiento de posición para elongar músculos.",
+    "definicion_larga": "Se hace tras entrenamientos para favorecer recuperación y flexibilidad; mantener 20–30 segundos cada grupo muscular.",
+    "ejemplo": "Estiramiento estático de cuádriceps y gemelos tras carrera.",
+    "sinonimos": ["Static stretching"],
+    "imagen_url": "logo.png",
+    "categoria": "Recuperación"
+  },
+  {
+    "id": 246,
+    "termino": "Carga de entrenamiento",
+    "definicion_corta": "Volumen e intensidad de ejercicios en un periodo.",
+    "definicion_larga": "Permite planificar progresión, evitar sobrecarga y mejorar rendimiento; incluye kilómetros, intensidad y sesiones de fuerza.",
+    "ejemplo": "Redujo carga de entrenamiento tras molestias musculares.",
+    "sinonimos": ["Training load"],
+    "imagen_url": "logo.png",
+    "categoria": "Entrenamiento"
+  },
+  {
+    "id": 247,
+    "termino": "Fatiga muscular",
+    "definicion_corta": "Disminución temporal de fuerza y rendimiento.",
+    "definicion_larga": "Ocurre por sobreuso, acumulación de lactato o déficit de energía; requiere descanso y recuperación activa.",
+    "ejemplo": "Sintió fatiga muscular tras series largas de velocidad.",
+    "sinonimos": ["Muscle fatigue"],
+    "imagen_url": "logo.png",
+    "categoria": "Recuperación"
+  },
+  {
+    "id": 248,
+    "termino": "Hipertrofia muscular",
+    "definicion_corta": "Aumento de tamaño de fibras musculares.",
+    "definicion_larga": "Se busca en entrenamiento de fuerza para mejorar potencia y soporte durante carrera; requiere estímulo y nutrición adecuada.",
+    "ejemplo": "Logró hipertrofia muscular en tren inferior tras 8 semanas de fuerza.",
+    "sinonimos": ["Muscle growth"],
+    "imagen_url": "logo.png",
+    "categoria": "Entrenamiento"
+  },
+  {
+    "id": 249,
+    "termino": "Suplementación con vitaminas",
+    "definicion_corta": "Aporte de vitaminas esenciales para corredores.",
+    "definicion_larga": "Vitaminas B, C, D y antioxidantes favorecen metabolismo, recuperación y función inmune; puede tomarse vía alimentación o suplementos.",
+    "ejemplo": "Tomó multivitamínico para mejorar recuperación y defensas.",
+    "sinonimos": ["Vitamin supplementation"],
+    "imagen_url": "logo.png",
+    "categoria": "Suplementación"
+  },
+  {
+    "id": 250,
+    "termino": "Suplementación con minerales",
+    "definicion_corta": "Aporte de minerales clave para rendimiento.",
+    "definicion_larga": "Hierro, magnesio y zinc ayudan a oxigenación, contracción muscular y recuperación; fundamental en corredores con déficit o alta carga de entrenamiento.",
+    "ejemplo": "Consumió suplemento de hierro y magnesio durante preparación de maratón.",
+    "sinonimos": ["Mineral supplementation"],
+    "imagen_url": "logo.png",
+    "categoria": "Suplementación"
+  },
+  {
+    "id": 251,
+    "termino": "Entrenamiento polarizado",
+    "definicion_corta": "Alternancia de intensidades bajas y altas.",
+    "definicion_larga": "Se combina ~80% de entrenamiento aeróbico ligero con ~20% de intensidad alta; mejora resistencia y velocidad sin sobrecargar.",
+    "ejemplo": "Corredor aplicó entrenamiento polarizado para maratón.",
+    "sinonimos": ["Polarized training"],
+    "imagen_url": "logo.png",
+    "categoria": "Entrenamiento"
+  },
+  {
+    "id": 252,
+    "termino": "Tempo run",
+    "definicion_corta": "Carrera a ritmo sostenido y exigente.",
+    "definicion_larga": "Se realiza cerca del umbral anaeróbico; mejora tolerancia al lactato y capacidad de mantener ritmos rápidos.",
+    "ejemplo": "Hizo 6 km de tempo run para preparación de media maratón.",
+    "sinonimos": ["Threshold run"],
+    "imagen_url": "logo.png",
+    "categoria": "Entrenamiento"
+  },
+  {
+    "id": 253,
+    "termino": "Entrenamiento de fartlek avanzado",
+    "definicion_corta": "Variaciones de ritmo con intensidad estratégica.",
+    "definicion_larga": "Incluye cambios de velocidad planificados según terreno o distancia; mejora capacidad anaeróbica y velocidad sostenida.",
+    "ejemplo": "Hizo fartlek avanzado en colinas para fuerza y velocidad.",
+    "sinonimos": ["Advanced speed play"],
+    "imagen_url": "logo.png",
+    "categoria": "Entrenamiento"
+  },
+  {
+    "id": 254,
+    "termino": "Entrenamiento en cuestas",
+    "definicion_corta": "Series de subida para fuerza y potencia.",
+    "definicion_larga": "Mejora fuerza de empuje, resistencia y técnica; importante para corredores de trail o maratón con desnivel.",
+    "ejemplo": "Corrió series en cuesta de 200 m para potenciar piernas.",
+    "sinonimos": ["Hill repeats"],
+    "imagen_url": "logo.png",
+    "categoria": "Entrenamiento"
+  },
+  {
+    "id": 255,
+    "termino": "Pacing",
+    "definicion_corta": "Control del ritmo de carrera.",
+    "definicion_larga": "Planificar velocidad según distancia y objetivos; evita gastar energía demasiado pronto y optimiza rendimiento.",
+    "ejemplo": "Mantuvo pacing constante en maratón para mejorar marca.",
+    "sinonimos": ["Race pace"],
+    "imagen_url": "logo.png",
+    "categoria": "Estrategia"
+  },
+  {
+    "id": 256,
+    "termino": "Negative split",
+    "definicion_corta": "Correr segunda mitad más rápido que la primera.",
+    "definicion_larga": "Estrategia eficiente para maratón y media maratón; evita fatiga temprana y mejora tiempo final.",
+    "ejemplo": "Realizó negative split en media maratón y logró marca personal.",
+    "sinonimos": ["Split negativo"],
+    "imagen_url": "logo.png",
+    "categoria": "Estrategia"
+  },
+  {
+    "id": 257,
+    "termino": "Entrenamiento progresivo",
+    "definicion_corta": "Aumentar ritmo gradualmente durante la sesión.",
+    "definicion_larga": "Mejora adaptación cardiovascular y muscular; útil para fondo y series largas.",
+    "ejemplo": "Rodaje de 10 km con entrenamiento progresivo.",
+    "sinonimos": ["Progressive run"],
+    "imagen_url": "logo.png",
+    "categoria": "Entrenamiento"
+  },
+  {
+    "id": 258,
+    "termino": "Carrera de tempo inverso",
+    "definicion_corta": "Comenzar rápido y terminar más lento.",
+    "definicion_larga": "Técnica para acostumbrar cuerpo a fatigarse rápido; entrenamiento específico para estrategias de sprint final.",
+    "ejemplo": "Realizó tempo inverso en rodaje de 8 km.",
+    "sinonimos": ["Reverse tempo run"],
+    "imagen_url": "logo.png",
+    "categoria": "Entrenamiento"
+  },
+  {
+    "id": 259,
+    "termino": "Carga de carbohidratos fraccionada",
+    "definicion_corta": "Distribución gradual de carbohidratos antes de carrera.",
+    "definicion_larga": "Evita molestias digestivas; maximiza reservas de glucógeno sin sobrecarga intestinal.",
+    "ejemplo": "Consumió carbohidratos fraccionados los días previos al maratón.",
+    "sinonimos": ["Fractional carb loading"],
+    "imagen_url": "logo.png",
+    "categoria": "Suplementación"
+  },
+  {
+    "id": 260,
+    "termino": "Suplementación con omega-3",
+    "definicion_corta": "Ácidos grasos esenciales antiinflamatorios.",
+    "definicion_larga": "Mejoran recuperación, salud cardiovascular y reducen inflamación muscular post-entrenamiento.",
+    "ejemplo": "Tomó cápsulas de omega-3 tras rodaje largo.",
+    "sinonimos": ["Omega-3 supplementation"],
+    "imagen_url": "logo.png",
+    "categoria": "Suplementación"
+  },
+  {
+    "id": 261,
+    "termino": "Suplementación con antioxidantes",
+    "definicion_corta": "Vitaminas y compuestos que reducen estrés oxidativo.",
+    "definicion_larga": "Vitamina C, E y polifenoles ayudan a recuperación y prevención de daño muscular tras entrenamientos intensos.",
+    "ejemplo": "Consumió antioxidantes en forma de suplementos tras series largas.",
+    "sinonimos": ["Antioxidant supplementation"],
+    "imagen_url": "logo.png",
+    "categoria": "Suplementación"
+  },
+  {
+    "id": 262,
+    "termino": "Carga de líquidos",
+    "definicion_corta": "Aumento de ingesta de agua previo a carrera.",
+    "definicion_larga": "Evita deshidratación durante la competición; combina agua y electrolitos según duración y clima.",
+    "ejemplo": "Hidratación extra 2 horas antes del maratón.",
+    "sinonimos": ["Fluid loading"],
+    "imagen_url": "logo.png",
+    "categoria": "Suplementación"
+  },
+  {
+    "id": 263,
+    "termino": "Suplementación con colágeno",
+    "definicion_corta": "Apoyo a articulaciones y tendones.",
+    "definicion_larga": "Favorece reparación de tejidos conectivos; útil en corredores con alto volumen de entrenamiento.",
+    "ejemplo": "Tomó colágeno hidrolizado tras rodaje largo para articulaciones.",
+    "sinonimos": ["Collagen supplementation"],
+    "imagen_url": "logo.png",
+    "categoria": "Suplementación"
+  },
+  {
+    "id": 264,
+    "termino": "Fatiga central",
+    "definicion_corta": "Disminución de rendimiento por sistema nervioso.",
+    "definicion_larga": "Se produce por sobrecarga de entrenamiento, estrés o déficit de sueño; requiere descanso y recuperación adecuada.",
+    "ejemplo": "Sintió fatiga central tras semanas de carga alta.",
+    "sinonimos": ["Central fatigue"],
+    "imagen_url": "logo.png",
+    "categoria": "Recuperación"
+  },
+  {
+    "id": 265,
+    "termino": "Fatiga periférica",
+    "definicion_corta": "Disminución de fuerza muscular local.",
+    "definicion_larga": "Ocurre por acumulación de metabolitos, daño muscular o agotamiento energético; se gestiona con recuperación activa y nutrición.",
+    "ejemplo": "Fatiga periférica tras series intensas de cuestas.",
+    "sinonimos": ["Peripheral fatigue"],
+    "imagen_url": "logo.png",
+    "categoria": "Recuperación"
+  },
+  {
+    "id": 266,
+    "termino": "Entrenamiento concurrente",
+    "definicion_corta": "Combina fuerza y resistencia en mismo ciclo.",
+    "definicion_larga": "Permite mejorar potencia y resistencia simultáneamente; requiere planificación para evitar interferencia.",
+    "ejemplo": "Planificó entrenamientos concurrentes 3 días por semana.",
+    "sinonimos": ["Concurrent training"],
+    "imagen_url": "logo.png",
+    "categoria": "Entrenamiento"
+  },
+  {
+    "id": 267,
+    "termino": "Suplementación con aminoácidos esenciales",
+    "definicion_corta": "Aminoácidos que el cuerpo no produce.",
+    "definicion_larga": "Favorecen recuperación, reparación muscular y síntesis de proteínas; útil en entrenamientos intensos o dietas restrictivas.",
+    "ejemplo": "Consumió suplemento de aminoácidos antes de entrenamientos largos.",
+    "sinonimos": ["Essential amino acids supplementation", "EAA"],
+    "imagen_url": "logo.png",
+    "categoria": "Suplementación"
+  },
+  {
+    "id": 268,
+    "termino": "Hidratación pre-carrera",
+    "definicion_corta": "Ingesta de líquidos antes de competición.",
+    "definicion_larga": "Mantiene equilibrio hídrico y prepara cuerpo para esfuerzos prolongados; incluye agua y bebidas con electrolitos.",
+    "ejemplo": "Bebió 300 ml de agua y bebida isotónica antes de 10K.",
+    "sinonimos": ["Pre-race hydration"],
+    "imagen_url": "logo.png",
+    "categoria": "Suplementación"
+  },
+  {
+    "id": 269,
+    "termino": "Recuperación post-carrera",
+    "definicion_corta": "Medidas tras finalización de la carrera.",
+    "definicion_larga": "Incluye hidratación, nutrición, estiramientos y descanso para reparar tejidos y reponer energía.",
+    "ejemplo": "Inmediatamente tras maratón realizó recuperación post-carrera con bebida isotónica y estiramientos.",
+    "sinonimos": ["Post-race recovery"],
+    "imagen_url": "logo.png",
+    "categoria": "Recuperación"
+  },
+  {
+    "id": 270,
+    "termino": "Estrategia de avituallamiento",
+    "definicion_corta": "Plan de ingesta de líquidos y energía durante carrera.",
+    "definicion_larga": "Incluye horarios, tipo de geles, líquidos y electrolitos para mantener energía y evitar deshidratación.",
+    "ejemplo": "Siguió estrategia de avituallamiento cada 45 minutos en maratón.",
+    "sinonimos": ["Fueling strategy", "Hydration plan"],
+    "imagen_url": "logo.png",
+    "categoria": "Estrategia"
+  },
+  {
+    "id": 271,
+    "termino": "Entrenamiento por pulsaciones",
+    "definicion_corta": "Control de intensidad según frecuencia cardíaca.",
+    "definicion_larga": "Permite entrenar en zonas específicas para mejorar resistencia aeróbica, velocidad o recuperación; clave en planificación avanzada.",
+    "ejemplo": "Rodaje a zona 2 de pulsaciones para mejorar base aeróbica.",
+    "sinonimos": ["Heart rate training"],
+    "imagen_url": "logo.png",
+    "categoria": "Entrenamiento"
+  },
+  {
+    "id": 272,
+    "termino": "Suplementación con electrolitos en geles",
+    "definicion_corta": "Geles que aportan carbohidratos y sales minerales.",
+    "definicion_larga": "Permiten mantener energía y equilibrio hídrico durante carrera; se consumen en distancias largas o en calor intenso.",
+    "ejemplo": "Consumió gel con electrolitos en km 20 del maratón.",
+    "sinonimos": ["Electrolyte energy gels"],
+    "imagen_url": "logo.png",
+    "categoria": "Suplementación"
+  },
+  {
+    "id": 273,
+    "termino": "Suplementación con HMB",
+    "definicion_corta": "Compuesto que protege músculo y mejora recuperación.",
+    "definicion_larga": "Beta-hidroxi-beta-metilbutirato ayuda a reducir degradación muscular tras entrenamiento intenso; útil en corredores de alto volumen.",
+    "ejemplo": "Tomó HMB durante fase de entrenamiento intenso.",
+    "sinonimos": ["HMB supplementation"],
+    "imagen_url": "logo.png",
+    "categoria": "Suplementación"
+  },
+  {
+    "id": 274,
+    "termino": "Planificación macro",
+    "definicion_corta": "Organización de entrenamiento a largo plazo.",
+    "definicion_larga": "Incluye periodización anual con ciclos de base, fuerza, intensidad y tapering; optimiza rendimiento y previene lesiones.",
+    "ejemplo": "Siguió planificación macro de 6 meses para maratón.",
+    "sinonimos": ["Macrocycle planning"],
+    "imagen_url": "logo.png",
+    "categoria": "Entrenamiento"
+  },
+  {
+    "id": 275,
+    "termino": "Planificación micro",
+    "definicion_corta": "Organización de entrenamientos semanales o diarios.",
+    "definicion_larga": "Detalle de volumen, intensidad, recuperación y objetivos; permite ajustar sesiones según sensación y progresión.",
+    "ejemplo": "Planificación micro con series, rodajes largos y recuperación activa.",
+    "sinonimos": ["Microcycle planning"],
+    "imagen_url": "logo.png",
+    "categoria": "Entrenamiento"
+  },
+  {
+    "id": 276,
+    "termino": "Suplementación con nitrato",
+    "definicion_corta": "Compuestos que mejoran eficiencia muscular.",
+    "definicion_larga": "El nitrato, presente en remolacha y suplementos, aumenta producción de óxido nítrico, mejorando flujo sanguíneo y rendimiento aeróbico.",
+    "ejemplo": "Consumió jugo de remolacha antes de rodaje largo para mejorar resistencia.",
+    "sinonimos": ["Nitrate supplementation"],
+    "imagen_url": "logo.png",
+    "categoria": "Suplementación"
+  },
+  {
+    "id": 277,
+    "termino": "Entrenamiento en hipoxia",
+    "definicion_corta": "Correr en condiciones de menor oxígeno.",
+    "definicion_larga": "Simula altitud para aumentar capacidad aeróbica y concentración de glóbulos rojos; mejora resistencia en competición a nivel del mar.",
+    "ejemplo": "Usó tienda de hipoxia para entrenar antes del maratón.",
+    "sinonimos": ["Altitude training", "Hypoxic training"],
+    "imagen_url": "logo.png",
+    "categoria": "Entrenamiento"
+  },
+  {
+    "id": 278,
+    "termino": "Suplementación con carbohidratos de cadena corta",
+    "definicion_corta": "Azúcares de rápida absorción durante carrera.",
+    "definicion_larga": "Proporcionan energía inmediata, evitando fatiga y manteniendo glucemia estable en esfuerzos prolongados.",
+    "ejemplo": "Consumió carbohidratos de cadena corta en geles cada 30 minutos durante carrera.",
+    "sinonimos": ["Fast-digesting carbs"],
+    "imagen_url": "logo.png",
+    "categoria": "Suplementación"
+  },
+  {
+    "id": 279,
+    "termino": "Suplementación con nitrógeno",
+    "definicion_corta": "Aminoácidos y compuestos para síntesis proteica.",
+    "definicion_larga": "Favorece recuperación muscular y disminuye catabolismo tras entrenamientos intensos o largas distancias.",
+    "ejemplo": "Tomó suplemento nitrogenado tras rodaje de fondo.",
+    "sinonimos": ["Nitrogen supplementation"],
+    "imagen_url": "logo.png",
+    "categoria": "Suplementación"
+  },
+  {
+    "id": 280,
+    "termino": "Tapering",
+    "definicion_corta": "Reducción gradual de entrenamiento antes de competición.",
+    "definicion_larga": "Permite recuperación completa, optimiza rendimiento y reduce riesgo de fatiga acumulada; duración varía según distancia y planificación.",
+    "ejemplo": "Aplicó tapering dos semanas antes del maratón.",
+    "sinonimos": ["Reducción de carga", "Descarga pre-competición"],
+    "imagen_url": "logo.png",
+    "categoria": "Entrenamiento"
+  },
+  {
+    "id": 281,
+    "termino": "Suplementación con electrolitos en cápsulas",
+    "definicion_corta": "Minerales en formato concentrado.",
+    "definicion_larga": "Permite reponer sodio, potasio y magnesio sin ingerir líquidos adicionales; útil en carreras de calor o larga duración.",
+    "ejemplo": "Tomó cápsulas de electrolitos durante ultra maratón.",
+    "sinonimos": ["Electrolyte capsules"],
+    "imagen_url": "logo.png",
+    "categoria": "Suplementación"
+  },
+  {
+    "id": 282,
+    "termino": "Entrenamiento de resistencia mental",
+    "definicion_corta": "Ejercicios para afrontar fatiga y esfuerzo prolongado.",
+    "definicion_larga": "Incluye simulaciones de carrera, visualización y concentración; mejora tolerancia a incomodidad y percepción de esfuerzo.",
+    "ejemplo": "Realizó entrenamientos de resistencia mental en rodajes largos.",
+    "sinonimos": ["Mental toughness training"],
+    "imagen_url": "logo.png",
+    "categoria": "Entrenamiento"
+  },
+  {
+    "id": 283,
+    "termino": "Suplementación con adaptógenos",
+    "definicion_corta": "Compuestos que ayudan al cuerpo a adaptarse al estrés.",
+    "definicion_larga": "Incluye ginseng, ashwagandha o rhodiola; mejora recuperación, reduce fatiga y aumenta resistencia en entrenamientos intensos.",
+    "ejemplo": "Tomó ashwagandha como adaptógeno durante preparación de maratón.",
+    "sinonimos": ["Adaptogen supplementation"],
+    "imagen_url": "logo.png",
+    "categoria": "Suplementación"
+  },
+  {
+    "id": 284,
+    "termino": "Recuperación con crioterapia",
+    "definicion_corta": "Exposición al frío para recuperación muscular.",
+    "definicion_larga": "Reduce inflamación, mejora circulación y acelera reparación de tejidos tras entrenamientos prolongados o intensos.",
+    "ejemplo": "Sesión de crioterapia tras rodaje de 25 km.",
+    "sinonimos": ["Cryotherapy"],
+    "imagen_url": "logo.png",
+    "categoria": "Recuperación"
+  },
+  {
+    "id": 285,
+    "termino": "Suplementación con coenzima Q10",
+    "definicion_corta": "Antioxidante que mejora producción de energía.",
+    "definicion_larga": "Participa en síntesis de ATP; puede mejorar rendimiento aeróbico y recuperación en entrenamientos de resistencia.",
+    "ejemplo": "Tomó coenzima Q10 antes de rodaje largo.",
+    "sinonimos": ["CoQ10 supplementation"],
+    "imagen_url": "logo.png",
+    "categoria": "Suplementación"
+  },
+  {
+    "id": 286,
+    "termino": "Entrenamiento cruzado",
+    "definicion_corta": "Complementar la carrera con otras disciplinas.",
+    "definicion_larga": "Incluye ciclismo, natación o fuerza; mejora condición física general, reduce riesgo de lesión y aumenta resistencia.",
+    "ejemplo": "Hizo entrenamiento cruzado con bici y natación.",
+    "sinonimos": ["Cross-training"],
+    "imagen_url": "logo.png",
+    "categoria": "Entrenamiento"
+  },
+  {
+    "id": 287,
+    "termino": "Suplementación con vitamina D",
+    "definicion_corta": "Vitamina clave para huesos y recuperación.",
+    "definicion_larga": "Favorece absorción de calcio, función inmune y prevención de fatiga; importante en corredores con exposición solar limitada.",
+    "ejemplo": "Tomó vitamina D durante invierno para mantener niveles óptimos.",
+    "sinonimos": ["Vitamin D supplementation"],
+    "imagen_url": "logo.png",
+    "categoria": "Suplementación"
+  },
+  {
+    "id": 288,
+    "termino": "Suplementación con magnesio",
+    "definicion_corta": "Mineral que ayuda a contracción y relajación muscular.",
+    "definicion_larga": "Previene calambres, fatiga y mejora recuperación; importante en corredores con alta sudoración.",
+    "ejemplo": "Tomó suplemento de magnesio tras entrenamiento intenso.",
+    "sinonimos": ["Magnesium supplementation"],
+    "imagen_url": "logo.png",
+    "categoria": "Suplementación"
+  },
+  {
+    "id": 289,
+    "termino": "Entrenamiento con sobrecarga progresiva",
+    "definicion_corta": "Incremento gradual de volumen o intensidad.",
+    "definicion_larga": "Permite adaptaciones fisiológicas y mejora rendimiento sin riesgo de lesión; clave en entrenamiento avanzado.",
+    "ejemplo": "Aumentó km semanales de forma progresiva durante 8 semanas.",
+    "sinonimos": ["Progressive overload training"],
+    "imagen_url": "logo.png",
+    "categoria": "Entrenamiento"
+  },
+  {
+    "id": 290,
+    "termino": "Suplementación con hierro",
+    "definicion_corta": "Mineral esencial para transporte de oxígeno.",
+    "definicion_larga": "Previene anemia, mejora VO2 máx y resistencia; especialmente importante en mujeres y corredores de fondo.",
+    "ejemplo": "Tomó suplemento de hierro tras analítica que mostraba déficit.",
+    "sinonimos": ["Iron supplementation"],
+    "imagen_url": "logo.png",
+    "categoria": "Suplementación"
+  },
+  {
+    "id": 291,
+    "termino": "Estrategia de geles escalonados",
+    "definicion_corta": "Distribución gradual de geles energéticos.",
+    "definicion_larga": "Se consume energía en intervalos estratégicos para mantener glucemia estable y evitar molestias digestivas.",
+    "ejemplo": "Tomó geles escalonados cada 30–45 minutos en ultra maratón.",
+    "sinonimos": ["Staggered gel strategy"],
+    "imagen_url": "logo.png",
+    "categoria": "Estrategia"
+  },
+  {
+    "id": 292,
+    "termino": "Recuperación con masaje de percusión",
+    "definicion_corta": "Masaje mecánico con pistola de percusión.",
+    "definicion_larga": "Favorece circulación, reduce tensión muscular y acelera eliminación de residuos metabólicos tras entrenamientos intensos.",
+    "ejemplo": "Usó pistola de percusión tras entrenamiento de velocidad.",
+    "sinonimos": ["Percussion massage"],
+    "imagen_url": "logo.png",
+    "categoria": "Recuperación"
+  },
+  {
+    "id": 293,
+    "termino": "Suplementación con tart cherry",
+    "definicion_corta": "Cereza ácida con propiedades antiinflamatorias.",
+    "definicion_larga": "Ayuda a reducir dolor muscular post-entrenamiento y mejora recuperación en corredores de fondo.",
+    "ejemplo": "Consumió jugo de tart cherry tras rodaje largo de 30 km.",
+    "sinonimos": ["Tart cherry supplementation", "Cereza ácida"],
+    "imagen_url": "logo.png",
+    "categoria": "Suplementación"
+  },
+  {
+    "id": 294,
+    "termino": "Entrenamiento con cuestas descendentes",
+    "definicion_corta": "Series en bajada para técnica y fuerza excéntrica.",
+    "definicion_larga": "Mejora fuerza excéntrica, coordinación y amortiguación; previene lesiones en carrera de montaña.",
+    "ejemplo": "Hizo series de bajada de 100 m tras rodaje en colinas.",
+    "sinonimos": ["Downhill repeats"],
+    "imagen_url": "logo.png",
+    "categoria": "Entrenamiento"
+  },
+  {
+    "id": 295,
+    "termino": "Suplementación con probióticos",
+    "definicion_corta": "Microorganismos beneficiosos para intestino.",
+    "definicion_larga": "Mejoran digestión, absorción de nutrientes y función inmune; útil en corredores con alto volumen de entrenamiento.",
+    "ejemplo": "Tomó probióticos durante preparación de maratón.",
+    "sinonimos": ["Probiotic supplementation"],
+    "imagen_url": "logo.png",
+    "categoria": "Suplementación"
+  },
+  {
+    "id": 296,
+    "termino": "Estrategia de entrenamiento en ayunas",
+    "definicion_corta": "Correr con reservas de glucógeno bajas.",
+    "definicion_larga": "Favorece adaptación metabólica a quemar grasa; se realiza con precaución y progresión gradual.",
+    "ejemplo": "Rodaje de 10 km en ayunas para adaptación aeróbica.",
+    "sinonimos": ["Fasted training"],
+    "imagen_url": "logo.png",
+    "categoria": "Entrenamiento"
+  },
+  {
+    "id": 297,
+    "termino": "Suplementación con L-carnitina",
+    "definicion_corta": "Aminoácido que transporta ácidos grasos a mitocondrias.",
+    "definicion_larga": "Mejora uso de grasa como energía y puede retrasar fatiga; útil en entrenamientos de larga duración.",
+    "ejemplo": "Tomó L-carnitina antes de rodaje de 25 km.",
+    "sinonimos": ["L-carnitine supplementation"],
+    "imagen_url": "logo.png",
+    "categoria": "Suplementación"
+  },
+  {
+    "id": 298,
+    "termino": "Entrenamiento con resistencia elástica",
+    "definicion_corta": "Uso de bandas para fuerza y técnica.",
+    "definicion_larga": "Mejora fuerza de empuje, estabilidad y coordinación; complemento a carrera y entrenamiento de fuerza.",
+    "ejemplo": "Usó banda elástica para fortalecer glúteos y cuádriceps.",
+    "sinonimos": ["Elastic resistance training"],
+    "imagen_url": "logo.png",
+    "categoria": "Entrenamiento"
+  },
+  {
+    "id": 299,
+    "termino": "Recuperación con baño contrastante",
+    "definicion_corta": "Alternancia de agua fría y caliente.",
+    "definicion_larga": "Mejora circulación, reduce inflamación y acelera recuperación post-entrenamiento intenso o competición.",
+    "ejemplo": "Realizó baño contrastante tras maratón.",
+    "sinonimos": ["Contrast bath recovery"],
+    "imagen_url": "logo.png",
+    "categoria": "Recuperación"
+  },
+  {
+    "id": 300,
+    "termino": "Suplementación con electrolitos en polvo",
+    "definicion_corta": "Minerales solubles para preparar bebida isotónica.",
+    "definicion_larga": "Permite ajustar concentración según necesidad, clima y duración; mantiene equilibrio hídrico y previene calambres.",
+    "ejemplo": "Preparó bebida con electrolitos en polvo durante ultramaratón.",
+    "sinonimos": ["Electrolyte powder"],
+    "imagen_url": "logo.png",
+    "categoria": "Suplementación"
+  },
+  {
+    "id": 301,
+    "termino": "Carga de hidratos",
+    "definicion_corta": "Aumento de ingesta de carbohidratos antes de la competición.",
+    "definicion_larga": "Se realiza normalmente 2–3 días antes de una carrera larga para maximizar reservas de glucógeno y retrasar la fatiga.",
+    "ejemplo": "Realizó carga de hidratos antes del maratón consumiendo pasta, arroz y patatas.",
+    "sinonimos": ["Carb-loading"],
+    "imagen_url": "logo.png",
+    "categoria": "Suplementación"
+ }
+]
