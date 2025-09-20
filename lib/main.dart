@@ -41,14 +41,15 @@ class MyApp extends StatelessWidget {
       child: MaterialApp(
         title: 'Glosario del running',
         theme: ThemeData(
-          primaryColor: const Color(0xFF800020),
+          primaryColor: Colors.black,
           colorScheme: ColorScheme.fromSwatch().copyWith(
-            secondary: const Color(0xFFD4AF37),
+            secondary: Colors.white,
+            brightness: Brightness.light
           ),
           scaffoldBackgroundColor: Colors.white,
           fontFamily: 'Montserrat',
           appBarTheme: const AppBarTheme(
-            backgroundColor: Color(0xFF800020),
+            backgroundColor: Colors.black,
             foregroundColor: Colors.white,
           ),
         ),

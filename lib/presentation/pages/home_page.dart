@@ -13,9 +13,10 @@ class HomePage extends StatelessWidget {
 Widget build(BuildContext context) {
   return Scaffold(
     appBar: AppBar(
-      title: const Text('RunningPedia [CarrerasVLC.es]'),
-      backgroundColor: const Color(0xFF800020),
-      foregroundColor: Colors.white,
+      title: const Text('Glosario del running'),
+      surfaceTintColor: Colors.white,
+        backgroundColor: const Color(0xFF800020),
+        foregroundColor: Colors.white,
       actions: [
         IconButton(
           icon: const Icon(Icons.favorite),

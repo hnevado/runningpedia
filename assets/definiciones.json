@@ -810,6 +810,16 @@
     "categoria": "Entrenamiento"
   },
   {
+  "id": 91,
+  "termino": "Running",
+  "definicion_corta": "Actividad física consistente en correr como deporte o ejercicio.",
+  "definicion_larga": "El running es la práctica de correr de forma regular con fines deportivos, recreativos o de salud. Se ha convertido en uno de los deportes más populares en el mundo por su accesibilidad, ya que no requiere más que calzado adecuado y puede realizarse en prácticamente cualquier lugar. Además de mejorar la condición física, contribuye al bienestar mental y a la socialización a través de carreras populares y entrenamientos grupales.",
+  "ejemplo": "El running se ha popularizado tanto que muchas ciudades organizan carreras de 5K, 10K y maratones cada año.",
+  "sinonimos": ["correr", "jogging"],
+  "imagen_url": "logo.png",
+  "categoria": "General"
+ },
+  {
     "id": 92,
     "termino": "Entrenamiento en cuestas largas",
     "definicion_corta": "Series subiendo pendientes prolongadas.",
