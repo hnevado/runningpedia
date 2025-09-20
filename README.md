@@ -18,6 +18,13 @@ Esta aplicación está diseñada para:
 - **Categorización**: Términos organizados por categorías para una mejor navegación
 - **Favoritos**: Guarda tus términos más consultados
 
+## 📱 Capturas de Pantalla
+
+  <img src="docs/screenshots/home.png" alt="Búsqueda de término" width="200"/></p>
+  <p><img src="docs/screenshots/detail.png" alt="Detalle de término" width="200"/></p>
+  <p><img src="docs/screenshots/fav.png" alt="Detalle de término" width="200"/></p>
+
+
 ## 🛠️ Tecnologías Utilizadas
 
 - **Framework**: Flutter
