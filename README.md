@@ -20,9 +20,9 @@ Esta aplicación está diseñada para:
 
 ## 📱 Capturas de Pantalla
 
-  <img src="docs/screenshots/home.png" alt="Búsqueda de término" width="200"/></p>
-  <p><img src="docs/screenshots/detail.png" alt="Detalle de término" width="200"/></p>
-  <p><img src="docs/screenshots/fav.png" alt="Detalle de término" width="200"/></p>
+  <img src="docs/screenshots/home.png" alt="Búsqueda de término"/></p>
+  <p><img src="docs/screenshots/detail.png" alt="Detalle de término" /></p>
+  <p><img src="docs/screenshots/fav.png" alt="Detalle de término"/></p>
 
 
 ## 🛠️ Tecnologías Utilizadas
